@@ -22,40 +22,40 @@
         "puntaje": 732.5
       },
       "sem_2": {
-        "hab": 0,
-        "mat": 0,
-        "com": 0,
-        "pfrh": 0,
-        "cs": 0,
-        "cta": 0,
-        "puntaje": 0
+        "hab": 20,
+        "mat": 240,
+        "com": 120,
+        "pfrh": 20,
+        "cs": 60,
+        "cta": 200,
+        "puntaje": 660
       },
       "sem_3": {
-        "hab": 0,
-        "mat": 0,
-        "com": 0,
-        "pfrh": 0,
-        "cs": 0,
-        "cta": 0,
-        "puntaje": 0
+        "hab": 151.00,
+        "mat": 177.75,
+        "com": 135.5,
+        "pfrh": 66.5,
+        "cs": 136.63,
+        "cta": 233.25,
+        "puntaje": 900.63
       },
       "sem_4": {
-        "hab": 0,
-        "mat": 0,
-        "com": 0,
-        "pfrh": 0,
-        "cs": 0,
-        "cta": 0,
-        "puntaje": 0
+        "hab": 219.75,
+        "mat": 236.63,
+        "com": 177.75,
+        "pfrh": 157.00,
+        "cs": 52.13,
+        "cta": 255.50,
+        "puntaje": 1092.75
       },
       "sem_5": {
-        "hab": 0,
-        "mat": 0,
-        "com": 0,
-        "pfrh": 0,
-        "cs": 0,
-        "cta": 0,
-        "puntaje": 0
+        "hab": 346.50,
+        "mat": 173.25,
+        "com": 135.50,
+        "pfrh": 172.13,
+        "cs": 73.25,
+        "cta": 191.00,
+        "puntaje": 1091.63
       },
       "sem_6": {
         "hab": 0,
