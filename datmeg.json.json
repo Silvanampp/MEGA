@@ -1,0 +1,174 @@
+[
+  {
+    "user": "Poma72477681",
+    "password": "72477681poma",
+    "email": "silvanapoma05@gmail.com",
+    "data_user": {
+      "nombre": "Silvana",
+      "apellido_paterno": "Poma",
+      "apellido_materno": "Poma2",
+      "carrera": "terapia",
+      "dni": 72477681
+    },
+    "data_puntaje": {
+      "sem_1": {
+        "hab": 262,
+        "mat": 88.75,
+        "com": 93.25,
+        "pfrh": 108.75,
+        "cs": 94.38,
+        "cta": 85.38,
+        "puntaje": 732.5
+      },
+      "sem_2": {
+        "hab": 0,
+        "mat": 0,
+        "com": 0,
+        "pfrh": 0,
+        "cs": 0,
+        "cta": 0,
+        "puntaje": 0
+      },
+      "sem_3": {
+        "hab": 0,
+        "mat": 0,
+        "com": 0,
+        "pfrh": 0,
+        "cs": 0,
+        "cta": 0,
+        "puntaje": 0
+      },
+      "sem_4": {
+        "hab": 0,
+        "mat": 0,
+        "com": 0,
+        "pfrh": 0,
+        "cs": 0,
+        "cta": 0,
+        "puntaje": 0
+      },
+      "sem_5": {
+        "hab": 0,
+        "mat": 0,
+        "com": 0,
+        "pfrh": 0,
+        "cs": 0,
+        "cta": 0,
+        "puntaje": 0
+      },
+      "sem_6": {
+        "hab": 0,
+        "mat": 0,
+        "com": 0,
+        "pfrh": 0,
+        "cs": 0,
+        "cta": 0,
+        "puntaje": 0
+      },
+      "sem_7": {
+        "hab": 0,
+        "mat": 0,
+        "com": 0,
+        "pfrh": 0,
+        "cs": 0,
+        "cta": 0,
+        "puntaje": 0
+      },
+      "sem_8": {
+        "hab": 0,
+        "mat": 0,
+        "com": 0,
+        "pfrh": 0,
+        "cs": 0,
+        "cta": 0,
+        "puntaje": 0
+      }
+    }
+  },
+  {
+    "user": "Poma72477693",
+    "password": "72477693poma",
+    "email": "mpoma@gmail.com",
+    "data_user": {
+      "nombre": "Mariana",
+      "apellido_paterno": "Lopez",
+      "apellido_materno": "Poma2",
+      "carrera": "terapia",
+      "dni": 72477681
+    },
+    "data_puntaje": {
+      "sem_1": {
+        "hab": 300,
+        "mat": 88.75,
+        "com": 102,
+        "pfrh": 108.75,
+        "cs": 94.38,
+        "cta": 85.38,
+        "puntaje": 750.5
+      },
+      "sem_2": {
+        "hab": 0,
+        "mat": 0,
+        "com": 0,
+        "pfrh": 0,
+        "cs": 0,
+        "cta": 0,
+        "puntaje": 0
+      },
+      "sem_3": {
+        "hab": 0,
+        "mat": 0,
+        "com": 0,
+        "pfrh": 0,
+        "cs": 0,
+        "cta": 0,
+        "puntaje": 0
+      },
+      "sem_4": {
+        "hab": 0,
+        "mat": 0,
+        "com": 0,
+        "pfrh": 0,
+        "cs": 0,
+        "cta": 0,
+        "puntaje": 0
+      },
+      "sem_5": {
+        "hab": 0,
+        "mat": 0,
+        "com": 0,
+        "pfrh": 0,
+        "cs": 0,
+        "cta": 0,
+        "puntaje": 0
+      },
+      "sem_6": {
+        "hab": 0,
+        "mat": 0,
+        "com": 0,
+        "pfrh": 0,
+        "cs": 0,
+        "cta": 0,
+        "puntaje": 0
+      },
+      "sem_7": {
+        "hab": 0,
+        "mat": 0,
+        "com": 0,
+        "pfrh": 0,
+        "cs": 0,
+        "cta": 0,
+        "puntaje": 0
+      },
+      "sem_8": {
+        "hab": 0,
+        "mat": 0,
+        "com": 0,
+        "pfrh": 0,
+        "cs": 0,
+        "cta": 0,
+        "puntaje": 0
+      }
+    }
+  }
+]
