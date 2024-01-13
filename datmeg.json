@@ -64,7 +64,7 @@
         "pfrh": 85,
         "cs": 152,
         "cta": 302,
-        "puntaje":1200
+        "puntaje":1012
       },
       "sem_7": {
         "hab": 580,
@@ -73,7 +73,7 @@
         "pfrh": 110,
         "cs": 80,
         "cta": 300,
-        "puntaje": 1100
+        "puntaje": 1400
       },
       "sem_8": {
         "hab": 400,
@@ -82,7 +82,7 @@
         "pfrh": 120,
         "cs": 20,
         "cta": 140,
-        "puntaje": 1300
+        "puntaje": 990
       }
     }
   },
