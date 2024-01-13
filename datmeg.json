@@ -58,30 +58,30 @@
         "puntaje": 1091.63
       },
       "sem_6": {
-        "hab": 0,
-        "mat": 0,
-        "com": 0,
-        "pfrh": 0,
-        "cs": 0,
-        "cta": 0,
+        "hab": 240.5,
+        "mat": 120.5,
+        "com": 112,
+        "pfrh": 85,
+        "cs": 152,
+        "cta": 302,
         "puntaje":1200
       },
       "sem_7": {
-        "hab": 0,
-        "mat": 0,
-        "com": 0,
-        "pfrh": 0,
-        "cs": 0,
-        "cta": 0,
+        "hab": 580,
+        "mat": 210,
+        "com": 120,
+        "pfrh": 110,
+        "cs": 80,
+        "cta": 300,
         "puntaje": 1100
       },
       "sem_8": {
-        "hab": 0,
-        "mat": 0,
-        "com": 0,
-        "pfrh": 0,
-        "cs": 0,
-        "cta": 0,
+        "hab": 400,
+        "mat": 220,
+        "com": 90,
+        "pfrh": 120,
+        "cs": 20,
+        "cta": 140,
         "puntaje": 1300
       }
     }
