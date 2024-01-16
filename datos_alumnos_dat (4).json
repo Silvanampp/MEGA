@@ -1,15 +1,15 @@
 {
-    "ID": 1,
-    "USER": "Alegria10000205",
-    "PASSWORD": "S10000205Alegria",
-    "EMAIL": "SebastianAlegria@gmail.com",
-    "DATA_USER": {
-        "NOMBRE": "SEBASTIAN FERNANDO",
-        "APELLIDOS": "ALEGRIA BAUTISTA",
-        "CARRERA": "PSICOLOGIA",
-        "CODIGO": 10000205
+    "id": 1,
+    "user": "Alegria10000205",
+    "password": "S10000205Alegria",
+    "email": "SebastianAlegria@gmail.com",
+    "data_user": {
+        "nombre": "SEBASTIAN FERNANDO",
+        "apellidos": "ALEGRIA BAUTISTA",
+        "carrera_u": "PSICOLOGIA",
+        "codigo": 10000205
     },
-    "DATA_PUNTAJE": {
+    "data_puntaje": {
         "sem_1": {
             "hab": 291.0,
             "mat": 54.38,
@@ -84,17 +84,17 @@
         }
     }
 },{
-    "ID": 2,
-    "USER": "Alejos10000350",
-    "PASSWORD": "I10000350Alejos",
-    "EMAIL": "IsaacAlejos@gmail.com",
-    "DATA_USER": {
-        "NOMBRE": "ISAAC WILLIAM",
-        "APELLIDOS": "ALEJOS OTINIANO",
-        "CARRERA": "EDUCACION FISICA",
-        "CODIGO": 10000350
+    "id": 2,
+    "user": "Alejos10000350",
+    "password": "I10000350Alejos",
+    "email": "IsaacAlejos@gmail.com",
+    "data_user": {
+        "nombre": "ISAAC WILLIAM",
+        "apellidos": "ALEJOS OTINIANO",
+        "carrera_u": "EDUCACION FISICA",
+        "codigo": 10000350
     },
-    "DATA_PUNTAJE": {
+    "data_puntaje": {
         "sem_1": {
             "hab": 315.5,
             "mat": 120.0,
@@ -169,17 +169,17 @@
         }
     }
 },{
-    "ID": 3,
-    "USER": "Burgos10000495",
-    "PASSWORD": "M10000495Burgos",
-    "EMAIL": "MateoBurgos@gmail.com",
-    "DATA_USER": {
-        "NOMBRE": "MATEO",
-        "APELLIDOS": "BURGOS LEVA",
-        "CARRERA": "PSICOLOGIA",
-        "CODIGO": 10000495
+    "id": 3,
+    "user": "Burgos10000495",
+    "password": "M10000495Burgos",
+    "email": "MateoBurgos@gmail.com",
+    "data_user": {
+        "nombre": "MATEO",
+        "apellidos": "BURGOS LEVA",
+        "carrera_u": "PSICOLOGIA",
+        "codigo": 10000495
     },
-    "DATA_PUNTAJE": {
+    "data_puntaje": {
         "sem_1": {
             "hab": 177.5,
             "mat": 88.75,
@@ -254,17 +254,17 @@
         }
     }
 },{
-    "ID": 4,
-    "USER": "Carrillo10000640",
-    "PASSWORD": "C10000640Carrillo",
-    "EMAIL": "CarmenCarrillo@gmail.com",
-    "DATA_USER": {
-        "NOMBRE": "CARMEN CIELO",
-        "APELLIDOS": "CARRILLO HUACHO",
-        "CARRERA": "ADMINISTRACION",
-        "CODIGO": 10000640
+    "id": 4,
+    "user": "Carrillo10000640",
+    "password": "C10000640Carrillo",
+    "email": "CarmenCarrillo@gmail.com",
+    "data_user": {
+        "nombre": "CARMEN CIELO",
+        "apellidos": "CARRILLO HUACHO",
+        "carrera_u": "ADMINISTRACION",
+        "codigo": 10000640
     },
-    "DATA_PUNTAJE": {
+    "data_puntaje": {
         "sem_1": {
             "hab": 0.0,
             "mat": 0.0,
@@ -339,17 +339,17 @@
         }
     }
 },{
-    "ID": 5,
-    "USER": "Castro10000785",
-    "PASSWORD": "D10000785Castro",
-    "EMAIL": "DharmaCastro@gmail.com",
-    "DATA_USER": {
-        "NOMBRE": "DHARMA",
-        "APELLIDOS": "CASTRO MANUICO",
-        "CARRERA": "ECONOMIA",
-        "CODIGO": 10000785
+    "id": 5,
+    "user": "Castro10000785",
+    "password": "D10000785Castro",
+    "email": "DharmaCastro@gmail.com",
+    "data_user": {
+        "nombre": "DHARMA",
+        "apellidos": "CASTRO MANUICO",
+        "carrera_u": "ECONOMIA",
+        "codigo": 10000785
     },
-    "DATA_PUNTAJE": {
+    "data_puntaje": {
         "sem_1": {
             "hab": 394.38,
             "mat": 236.63,
@@ -424,17 +424,17 @@
         }
     }
 },{
-    "ID": 6,
-    "USER": "Ccenua10000930",
-    "PASSWORD": "J10000930Ccenua",
-    "EMAIL": "JarenCcenua@gmail.com",
-    "DATA_USER": {
-        "NOMBRE": "JAREN ALEXANDER",
-        "APELLIDOS": "CCENUA QUITO",
-        "CARRERA": "INGENIERIA CIVIL",
-        "CODIGO": 10000930
+    "id": 6,
+    "user": "Ccenua10000930",
+    "password": "J10000930Ccenua",
+    "email": "JarenCcenua@gmail.com",
+    "data_user": {
+        "nombre": "JAREN ALEXANDER",
+        "apellidos": "CCENUA QUITO",
+        "carrera_u": "INGENIERIA CIVIL",
+        "codigo": 10000930
     },
-    "DATA_PUNTAJE": {
+    "data_puntaje": {
         "sem_1": {
             "hab": 177.5,
             "mat": 88.75,
@@ -509,17 +509,17 @@
         }
     }
 },{
-    "ID": 7,
-    "USER": "Cervantes10001075",
-    "PASSWORD": "J10001075Cervantes",
-    "EMAIL": "JonathanCervantes@gmail.com",
-    "DATA_USER": {
-        "NOMBRE": "JONATHAN OCTAVIO EMILIO",
-        "APELLIDOS": "CERVANTES SORIA",
-        "CARRERA": "CONTABILIDAD",
-        "CODIGO": 10001075
+    "id": 7,
+    "user": "Cervantes10001075",
+    "password": "J10001075Cervantes",
+    "email": "JonathanCervantes@gmail.com",
+    "data_user": {
+        "nombre": "JONATHAN OCTAVIO EMILIO",
+        "apellidos": "CERVANTES SORIA",
+        "carrera_u": "CONTABILIDAD",
+        "codigo": 10001075
     },
-    "DATA_PUNTAJE": {
+    "data_puntaje": {
         "sem_1": {
             "hab": 262.0,
             "mat": 109.88,
@@ -594,17 +594,17 @@
         }
     }
 },{
-    "ID": 8,
-    "USER": "Chavez10001220",
-    "PASSWORD": "E10001220Chavez",
-    "EMAIL": "EmilyChavez@gmail.com",
-    "DATA_USER": {
-        "NOMBRE": "EMILY ANABEL",
-        "APELLIDOS": "CHAVEZ FLORES",
-        "CARRERA": "INGENIERIA DE TELECOMUNICACIONES",
-        "CODIGO": 10001220
+    "id": 8,
+    "user": "Chavez10001220",
+    "password": "E10001220Chavez",
+    "email": "EmilyChavez@gmail.com",
+    "data_user": {
+        "nombre": "EMILY ANABEL",
+        "apellidos": "CHAVEZ FLORES",
+        "carrera_u": "INGENIERIA DE TELECOMUNICACIONES",
+        "codigo": 10001220
     },
-    "DATA_PUNTAJE": {
+    "data_puntaje": {
         "sem_1": {
             "hab": 129.88,
             "mat": 34.38,
@@ -679,17 +679,17 @@
         }
     }
 },{
-    "ID": 9,
-    "USER": "Chura10001365",
-    "PASSWORD": "N10001365Chura",
-    "EMAIL": "NatalyChura@gmail.com",
-    "DATA_USER": {
-        "NOMBRE": "NATALY",
-        "APELLIDOS": "CHURA MONTOYA",
-        "CARRERA": "ADMINISTRACION DE NEGOCIOS INTERNACIONALES",
-        "CODIGO": 10001365
+    "id": 9,
+    "user": "Chura10001365",
+    "password": "N10001365Chura",
+    "email": "NatalyChura@gmail.com",
+    "data_user": {
+        "nombre": "NATALY",
+        "apellidos": "CHURA MONTOYA",
+        "carrera_u": "ADMINISTRACION DE NEGOCIOS INTERNACIONALES",
+        "codigo": 10001365
     },
-    "DATA_PUNTAJE": {
+    "data_puntaje": {
         "sem_1": {
             "hab": 0.0,
             "mat": 0.0,
@@ -764,17 +764,17 @@
         }
     }
 },{
-    "ID": 10,
-    "USER": "Duenas10001510",
-    "PASSWORD": "L10001510Duenas",
-    "EMAIL": "LuisaDuenas@gmail.com",
-    "DATA_USER": {
-        "NOMBRE": "LUISA",
-        "APELLIDOS": "DUENAS TAYPE",
-        "CARRERA": "ARQUITECTURA",
-        "CODIGO": 10001510
+    "id": 10,
+    "user": "Duenas10001510",
+    "password": "L10001510Duenas",
+    "email": "LuisaDuenas@gmail.com",
+    "data_user": {
+        "nombre": "LUISA",
+        "apellidos": "DUENAS TAYPE",
+        "carrera_u": "ARQUITECTURA",
+        "codigo": 10001510
     },
-    "DATA_PUNTAJE": {
+    "data_puntaje": {
         "sem_1": {
             "hab": 207.63,
             "mat": 154.38,
@@ -849,17 +849,17 @@
         }
     }
 },{
-    "ID": 11,
-    "USER": "Gomez10001655",
-    "PASSWORD": "O10001655Gomez",
-    "EMAIL": "OmarGomez@gmail.com",
-    "DATA_USER": {
-        "NOMBRE": "OMAR AARON",
-        "APELLIDOS": "GOMEZ PULACHE",
-        "CARRERA": "ECONOMIA INTERNACIONAL",
-        "CODIGO": 10001655
+    "id": 11,
+    "user": "Gomez10001655",
+    "password": "O10001655Gomez",
+    "email": "OmarGomez@gmail.com",
+    "data_user": {
+        "nombre": "OMAR AARON",
+        "apellidos": "GOMEZ PULACHE",
+        "carrera_u": "ECONOMIA INTERNACIONAL",
+        "codigo": 10001655
     },
-    "DATA_PUNTAJE": {
+    "data_puntaje": {
         "sem_1": {
             "hab": 262.0,
             "mat": 194.38,
@@ -934,17 +934,17 @@
         }
     }
 },{
-    "ID": 12,
-    "USER": "Gonzales10001800",
-    "PASSWORD": "H10001800Gonzales",
-    "EMAIL": "HeidyGonzales@gmail.com",
-    "DATA_USER": {
-        "NOMBRE": "HEIDY ALEXANDRA",
-        "APELLIDOS": "GONZALES PENA",
-        "CARRERA": "EDUCACION SECUNDARIA",
-        "CODIGO": 10001800
+    "id": 12,
+    "user": "Gonzales10001800",
+    "password": "H10001800Gonzales",
+    "email": "HeidyGonzales@gmail.com",
+    "data_user": {
+        "nombre": "HEIDY ALEXANDRA",
+        "apellidos": "GONZALES PENA",
+        "carrera_u": "EDUCACION SECUNDARIA",
+        "codigo": 10001800
     },
-    "DATA_PUNTAJE": {
+    "data_puntaje": {
         "sem_1": {
             "hab": 0.0,
             "mat": 0.0,
@@ -1019,17 +1019,17 @@
         }
     }
 },{
-    "ID": 13,
-    "USER": "Gutierrez10001945",
-    "PASSWORD": "J10001945Gutierrez",
-    "EMAIL": "JeanGutierrez@gmail.com",
-    "DATA_USER": {
-        "NOMBRE": "JEAN PIERE",
-        "APELLIDOS": "GUTIERREZ HUARCAYA",
-        "CARRERA": "ARQUITECTURA",
-        "CODIGO": 10001945
+    "id": 13,
+    "user": "Gutierrez10001945",
+    "password": "J10001945Gutierrez",
+    "email": "JeanGutierrez@gmail.com",
+    "data_user": {
+        "nombre": "JEAN PIERE",
+        "apellidos": "GUTIERREZ HUARCAYA",
+        "carrera_u": "ARQUITECTURA",
+        "codigo": 10001945
     },
-    "DATA_PUNTAJE": {
+    "data_puntaje": {
         "sem_1": {
             "hab": 204.25,
             "mat": 155.5,
@@ -1104,17 +1104,17 @@
         }
     }
 },{
-    "ID": 14,
-    "USER": "Guzman10002090",
-    "PASSWORD": "M10002090Guzman",
-    "EMAIL": "MiguelGuzman@gmail.com",
-    "DATA_USER": {
-        "NOMBRE": "MIGUEL ALEJANDRO",
-        "APELLIDOS": "GUZMAN CUENTAS",
-        "CARRERA": "INGENIERIA DE SOFTWARE",
-        "CODIGO": 10002090
+    "id": 14,
+    "user": "Guzman10002090",
+    "password": "M10002090Guzman",
+    "email": "MiguelGuzman@gmail.com",
+    "data_user": {
+        "nombre": "MIGUEL ALEJANDRO",
+        "apellidos": "GUZMAN CUENTAS",
+        "carrera_u": "INGENIERIA DE SOFTWARE",
+        "codigo": 10002090
     },
-    "DATA_PUNTAJE": {
+    "data_puntaje": {
         "sem_1": {
             "hab": 0.0,
             "mat": 0.0,
@@ -1189,17 +1189,17 @@
         }
     }
 },{
-    "ID": 15,
-    "USER": "Huaman10002235",
-    "PASSWORD": "Y10002235Huaman",
-    "EMAIL": "YajairaHuaman@gmail.com",
-    "DATA_USER": {
-        "NOMBRE": "YAJAIRA LIVIA",
-        "APELLIDOS": "HUAMAN CAZOLDA",
-        "CARRERA": "ADMINISTRACION",
-        "CODIGO": 10002235
+    "id": 15,
+    "user": "Huaman10002235",
+    "password": "Y10002235Huaman",
+    "email": "YajairaHuaman@gmail.com",
+    "data_user": {
+        "nombre": "YAJAIRA LIVIA",
+        "apellidos": "HUAMAN CAZOLDA",
+        "carrera_u": "ADMINISTRACION",
+        "codigo": 10002235
     },
-    "DATA_PUNTAJE": {
+    "data_puntaje": {
         "sem_1": {
             "hab": 0.0,
             "mat": 0.0,
@@ -1274,17 +1274,17 @@
         }
     }
 },{
-    "ID": 16,
-    "USER": "Huapaya10002380",
-    "PASSWORD": "S10002380Huapaya",
-    "EMAIL": "StefanoHuapaya@gmail.com",
-    "DATA_USER": {
-        "NOMBRE": "STEFANO ANDRE",
-        "APELLIDOS": "HUAPAYA REYES",
-        "CARRERA": "PSICOLOGIA",
-        "CODIGO": 10002380
+    "id": 16,
+    "user": "Huapaya10002380",
+    "password": "S10002380Huapaya",
+    "email": "StefanoHuapaya@gmail.com",
+    "data_user": {
+        "nombre": "STEFANO ANDRE",
+        "apellidos": "HUAPAYA REYES",
+        "carrera_u": "PSICOLOGIA",
+        "codigo": 10002380
     },
-    "DATA_PUNTAJE": {
+    "data_puntaje": {
         "sem_1": {
             "hab": 240.88,
             "mat": 152.13,
@@ -1359,17 +1359,17 @@
         }
     }
 },{
-    "ID": 17,
-    "USER": "Humpiri10002525",
-    "PASSWORD": "A10002525Humpiri",
-    "EMAIL": "AymarHumpiri@gmail.com",
-    "DATA_USER": {
-        "NOMBRE": "AYMAR DANIEL",
-        "APELLIDOS": "HUMPIRI ORTIZ",
-        "CARRERA": "INGENIERIA ELECTRONICA",
-        "CODIGO": 10002525
+    "id": 17,
+    "user": "Humpiri10002525",
+    "password": "A10002525Humpiri",
+    "email": "AymarHumpiri@gmail.com",
+    "data_user": {
+        "nombre": "AYMAR DANIEL",
+        "apellidos": "HUMPIRI ORTIZ",
+        "carrera_u": "INGENIERIA ELECTRONICA",
+        "codigo": 10002525
     },
-    "DATA_PUNTAJE": {
+    "data_puntaje": {
         "sem_1": {
             "hab": 315.5,
             "mat": 236.63,
@@ -1444,17 +1444,17 @@
         }
     }
 },{
-    "ID": 18,
-    "USER": "Jara10002670",
-    "PASSWORD": "J10002670Jara",
-    "EMAIL": "JosephJara@gmail.com",
-    "DATA_USER": {
-        "NOMBRE": "JOSEPH",
-        "APELLIDOS": "JARA CAPILLO",
-        "CARRERA": "INGENIERIA ELECTRONICA",
-        "CODIGO": 10002670
+    "id": 18,
+    "user": "Jara10002670",
+    "password": "J10002670Jara",
+    "email": "JosephJara@gmail.com",
+    "data_user": {
+        "nombre": "JOSEPH",
+        "apellidos": "JARA CAPILLO",
+        "carrera_u": "INGENIERIA ELECTRONICA",
+        "codigo": 10002670
     },
-    "DATA_PUNTAJE": {
+    "data_puntaje": {
         "sem_1": {
             "hab": 283.13,
             "mat": 88.75,
@@ -1529,17 +1529,17 @@
         }
     }
 },{
-    "ID": 19,
-    "USER": "Llasayca10002815",
-    "PASSWORD": "W10002815Llasayca",
-    "EMAIL": "WalterLlasayca@gmail.com",
-    "DATA_USER": {
-        "NOMBRE": "WALTER OSWALDO",
-        "APELLIDOS": "LLASAYCA MEDINA",
-        "CARRERA": "PSICOLOGIA",
-        "CODIGO": 10002815
+    "id": 19,
+    "user": "Llasayca10002815",
+    "password": "W10002815Llasayca",
+    "email": "WalterLlasayca@gmail.com",
+    "data_user": {
+        "nombre": "WALTER OSWALDO",
+        "apellidos": "LLASAYCA MEDINA",
+        "carrera_u": "PSICOLOGIA",
+        "codigo": 10002815
     },
-    "DATA_PUNTAJE": {
+    "data_puntaje": {
         "sem_1": {
             "hab": 0.0,
             "mat": 0.0,
@@ -1614,17 +1614,17 @@
         }
     }
 },{
-    "ID": 20,
-    "USER": "Llasaycca10002960",
-    "PASSWORD": "A10002960Llasaycca",
-    "EMAIL": "AndersonLlasaycca@gmail.com",
-    "DATA_USER": {
-        "NOMBRE": "ANDERSON",
-        "APELLIDOS": "LLASAYCCA PANIAGUA",
-        "CARRERA": "MEDICINA HUMANA",
-        "CODIGO": 10002960
+    "id": 20,
+    "user": "Llasaycca10002960",
+    "password": "A10002960Llasaycca",
+    "email": "AndersonLlasaycca@gmail.com",
+    "data_user": {
+        "nombre": "ANDERSON",
+        "apellidos": "LLASAYCCA PANIAGUA",
+        "carrera_u": "MEDICINA HUMANA",
+        "codigo": 10002960
     },
-    "DATA_PUNTAJE": {
+    "data_puntaje": {
         "sem_1": {
             "hab": 165.38,
             "mat": 97.75,
@@ -1699,17 +1699,17 @@
         }
     }
 },{
-    "ID": 21,
-    "USER": "Lopez10003105",
-    "PASSWORD": "L10003105Lopez",
-    "EMAIL": "LeoLopez@gmail.com",
-    "DATA_USER": {
-        "NOMBRE": "LEO ALEXANDER",
-        "APELLIDOS": "LOPEZ ARTEAGA",
-        "CARRERA": "MEDICINA HUMANA",
-        "CODIGO": 10003105
+    "id": 21,
+    "user": "Lopez10003105",
+    "password": "L10003105Lopez",
+    "email": "LeoLopez@gmail.com",
+    "data_user": {
+        "nombre": "LEO ALEXANDER",
+        "apellidos": "LOPEZ ARTEAGA",
+        "carrera_u": "MEDICINA HUMANA",
+        "codigo": 10003105
     },
-    "DATA_PUNTAJE": {
+    "data_puntaje": {
         "sem_1": {
             "hab": 0.0,
             "mat": 0.0,
@@ -1784,17 +1784,17 @@
         }
     }
 },{
-    "ID": 22,
-    "USER": "Medina10003250",
-    "PASSWORD": "D10003250Medina",
-    "EMAIL": "DianaMedina@gmail.com",
-    "DATA_USER": {
-        "NOMBRE": "DIANA PAOLA",
-        "APELLIDOS": "MEDINA MORENO",
-        "CARRERA": "EDUCACION PRIMARIA",
-        "CODIGO": 10003250
+    "id": 22,
+    "user": "Medina10003250",
+    "password": "D10003250Medina",
+    "email": "DianaMedina@gmail.com",
+    "data_user": {
+        "nombre": "DIANA PAOLA",
+        "apellidos": "MEDINA MORENO",
+        "carrera_u": "EDUCACION PRIMARIA",
+        "codigo": 10003250
     },
-    "DATA_PUNTAJE": {
+    "data_puntaje": {
         "sem_1": {
             "hab": 274.38,
             "mat": 154.38,
@@ -1869,17 +1869,17 @@
         }
     }
 },{
-    "ID": 23,
-    "USER": "Meza10003395",
-    "PASSWORD": "N10003395Meza",
-    "EMAIL": "NoemiMeza@gmail.com",
-    "DATA_USER": {
-        "NOMBRE": "NOEMI LILIANA",
-        "APELLIDOS": "MEZA PUMAHUALLCA",
-        "CARRERA": "EDUCACION INICIAL",
-        "CODIGO": 10003395
+    "id": 23,
+    "user": "Meza10003395",
+    "password": "N10003395Meza",
+    "email": "NoemiMeza@gmail.com",
+    "data_user": {
+        "nombre": "NOEMI LILIANA",
+        "apellidos": "MEZA PUMAHUALLCA",
+        "carrera_u": "EDUCACION INICIAL",
+        "codigo": 10003395
     },
-    "DATA_PUNTAJE": {
+    "data_puntaje": {
         "sem_1": {
             "hab": 0.0,
             "mat": 0.0,
@@ -1954,17 +1954,17 @@
         }
     }
 },{
-    "ID": 24,
-    "USER": "Oliveira10003540",
-    "PASSWORD": "M10003540Oliveira",
-    "EMAIL": "MerisaOliveira@gmail.com",
-    "DATA_USER": {
-        "NOMBRE": "MERISA NAYELI",
-        "APELLIDOS": "OLIVEIRA TINA",
-        "CARRERA": "PSICOLOGIA",
-        "CODIGO": 10003540
+    "id": 24,
+    "user": "Oliveira10003540",
+    "password": "M10003540Oliveira",
+    "email": "MerisaOliveira@gmail.com",
+    "data_user": {
+        "nombre": "MERISA NAYELI",
+        "apellidos": "OLIVEIRA TINA",
+        "carrera_u": "PSICOLOGIA",
+        "codigo": 10003540
     },
-    "DATA_PUNTAJE": {
+    "data_puntaje": {
         "sem_1": {
             "hab": 0.0,
             "mat": 0.0,
@@ -2039,17 +2039,17 @@
         }
     }
 },{
-    "ID": 25,
-    "USER": "Rios10003685",
-    "PASSWORD": "N10003685Rios",
-    "EMAIL": "NickolleRios@gmail.com",
-    "DATA_USER": {
-        "NOMBRE": "NICKOLLE ALESSANDRA",
-        "APELLIDOS": "RIOS CUESTAS",
-        "CARRERA": "DERECHO",
-        "CODIGO": 10003685
+    "id": 25,
+    "user": "Rios10003685",
+    "password": "N10003685Rios",
+    "email": "NickolleRios@gmail.com",
+    "data_user": {
+        "nombre": "NICKOLLE ALESSANDRA",
+        "apellidos": "RIOS CUESTAS",
+        "carrera_u": "DERECHO",
+        "codigo": 10003685
     },
-    "DATA_PUNTAJE": {
+    "data_puntaje": {
         "sem_1": {
             "hab": 325.38,
             "mat": 67.63,
@@ -2124,17 +2124,17 @@
         }
     }
 },{
-    "ID": 26,
-    "USER": "Rivera10003830",
-    "PASSWORD": "A10003830Rivera",
-    "EMAIL": "AzumyRivera@gmail.com",
-    "DATA_USER": {
-        "NOMBRE": "AZUMY ANGIE",
-        "APELLIDOS": "RIVERA ORTEGA",
-        "CARRERA": "NUTRICION",
-        "CODIGO": 10003830
+    "id": 26,
+    "user": "Rivera10003830",
+    "password": "A10003830Rivera",
+    "email": "AzumyRivera@gmail.com",
+    "data_user": {
+        "nombre": "AZUMY ANGIE",
+        "apellidos": "RIVERA ORTEGA",
+        "carrera_u": "NUTRICION",
+        "codigo": 10003830
     },
-    "DATA_PUNTAJE": {
+    "data_puntaje": {
         "sem_1": {
             "hab": 240.88,
             "mat": 88.75,
@@ -2209,17 +2209,17 @@
         }
     }
 },{
-    "ID": 27,
-    "USER": "Rivera10003975",
-    "PASSWORD": "V10003975Rivera",
-    "EMAIL": "ValeriaRivera@gmail.com",
-    "DATA_USER": {
-        "NOMBRE": "VALERIA ZASHA",
-        "APELLIDOS": "RIVERA ORTEGA",
-        "CARRERA": "ARQUITECTURA",
-        "CODIGO": 10003975
+    "id": 27,
+    "user": "Rivera10003975",
+    "password": "V10003975Rivera",
+    "email": "ValeriaRivera@gmail.com",
+    "data_user": {
+        "nombre": "VALERIA ZASHA",
+        "apellidos": "RIVERA ORTEGA",
+        "carrera_u": "ARQUITECTURA",
+        "codigo": 10003975
     },
-    "DATA_PUNTAJE": {
+    "data_puntaje": {
         "sem_1": {
             "hab": 267.63,
             "mat": 112.13,
@@ -2294,17 +2294,17 @@
         }
     }
 },{
-    "ID": 28,
-    "USER": "Rojas10004120",
-    "PASSWORD": "S10004120Rojas",
-    "EMAIL": "StefanoRojas@gmail.com",
-    "DATA_USER": {
-        "NOMBRE": "STEFANO JOSUE",
-        "APELLIDOS": "ROJAS TRINIDAD",
-        "CARRERA": "CONTABILIDAD",
-        "CODIGO": 10004120
+    "id": 28,
+    "user": "Rojas10004120",
+    "password": "S10004120Rojas",
+    "email": "StefanoRojas@gmail.com",
+    "data_user": {
+        "nombre": "STEFANO JOSUE",
+        "apellidos": "ROJAS TRINIDAD",
+        "carrera_u": "CONTABILIDAD",
+        "codigo": 10004120
     },
-    "DATA_PUNTAJE": {
+    "data_puntaje": {
         "sem_1": {
             "hab": 64.25,
             "mat": 18.88,
@@ -2379,17 +2379,17 @@
         }
     }
 },{
-    "ID": 29,
-    "USER": "Ruiz10004265",
-    "PASSWORD": "N10004265Ruiz",
-    "EMAIL": "NickolRuiz@gmail.com",
-    "DATA_USER": {
-        "NOMBRE": "NICKOL ANDRIANOV",
-        "APELLIDOS": "RUIZ MU\u00d1OZ",
-        "CARRERA": "FARMACIA Y BIOQUIMICA",
-        "CODIGO": 10004265
+    "id": 29,
+    "user": "Ruiz10004265",
+    "password": "N10004265Ruiz",
+    "email": "NickolRuiz@gmail.com",
+    "data_user": {
+        "nombre": "NICKOL ANDRIANOV",
+        "apellidos": "RUIZ MU\u00d1OZ",
+        "carrera_u": "FARMACIA Y BIOQUIMICA",
+        "codigo": 10004265
     },
-    "DATA_PUNTAJE": {
+    "data_puntaje": {
         "sem_1": {
             "hab": 0.0,
             "mat": 0.0,
@@ -2464,17 +2464,17 @@
         }
     }
 },{
-    "ID": 30,
-    "USER": "Salazar10004410",
-    "PASSWORD": "S10004410Salazar",
-    "EMAIL": "SaylaSalazar@gmail.com",
-    "DATA_USER": {
-        "NOMBRE": "SAYLA SILVANA",
-        "APELLIDOS": "SALAZAR GALVEZ",
-        "CARRERA": "ADMINISTRACION DE NEGOCIOS INTERNACIONALES",
-        "CODIGO": 10004410
+    "id": 30,
+    "user": "Salazar10004410",
+    "password": "S10004410Salazar",
+    "email": "SaylaSalazar@gmail.com",
+    "data_user": {
+        "nombre": "SAYLA SILVANA",
+        "apellidos": "SALAZAR GALVEZ",
+        "carrera_u": "ADMINISTRACION DE NEGOCIOS INTERNACIONALES",
+        "codigo": 10004410
     },
-    "DATA_PUNTAJE": {
+    "data_puntaje": {
         "sem_1": {
             "hab": 0.0,
             "mat": 0.0,
@@ -2549,17 +2549,17 @@
         }
     }
 },{
-    "ID": 31,
-    "USER": "Taipe10004555",
-    "PASSWORD": "A10004555Taipe",
-    "EMAIL": "AngeloTaipe@gmail.com",
-    "DATA_USER": {
-        "NOMBRE": "ANGELO ESTEFANO",
-        "APELLIDOS": "TAIPE ECHEVARRIA",
-        "CARRERA": "MEDICINA HUMANA",
-        "CODIGO": 10004555
+    "id": 31,
+    "user": "Taipe10004555",
+    "password": "A10004555Taipe",
+    "email": "AngeloTaipe@gmail.com",
+    "data_user": {
+        "nombre": "ANGELO ESTEFANO",
+        "apellidos": "TAIPE ECHEVARRIA",
+        "carrera_u": "MEDICINA HUMANA",
+        "codigo": 10004555
     },
-    "DATA_PUNTAJE": {
+    "data_puntaje": {
         "sem_1": {
             "hab": 0.0,
             "mat": 0.0,
@@ -2634,17 +2634,17 @@
         }
     }
 },{
-    "ID": 32,
-    "USER": "Torres10004700",
-    "PASSWORD": "V10004700Torres",
-    "EMAIL": "ValeriaTorres@gmail.com",
-    "DATA_USER": {
-        "NOMBRE": "VALERIA GENESIS",
-        "APELLIDOS": "TORRES DIAZ",
-        "CARRERA": "ADMINISTRACION",
-        "CODIGO": 10004700
+    "id": 32,
+    "user": "Torres10004700",
+    "password": "V10004700Torres",
+    "email": "ValeriaTorres@gmail.com",
+    "data_user": {
+        "nombre": "VALERIA GENESIS",
+        "apellidos": "TORRES DIAZ",
+        "carrera_u": "ADMINISTRACION",
+        "codigo": 10004700
     },
-    "DATA_PUNTAJE": {
+    "data_puntaje": {
         "sem_1": {
             "hab": 0.0,
             "mat": 0.0,
@@ -2719,17 +2719,17 @@
         }
     }
 },{
-    "ID": 33,
-    "USER": "Villavicencio10004845",
-    "PASSWORD": "A10004845Villavicencio",
-    "EMAIL": "AndreaVillavicencio@gmail.com",
-    "DATA_USER": {
-        "NOMBRE": "ANDREA FERNANDA",
-        "APELLIDOS": "VILLAVICENCIO GALARZA",
-        "CARRERA": "EDUCACION SECUNDARIA",
-        "CODIGO": 10004845
+    "id": 33,
+    "user": "Villavicencio10004845",
+    "password": "A10004845Villavicencio",
+    "email": "AndreaVillavicencio@gmail.com",
+    "data_user": {
+        "nombre": "ANDREA FERNANDA",
+        "apellidos": "VILLAVICENCIO GALARZA",
+        "carrera_u": "EDUCACION SECUNDARIA",
+        "codigo": 10004845
     },
-    "DATA_PUNTAJE": {
+    "data_puntaje": {
         "sem_1": {
             "hab": 0.0,
             "mat": 0.0,
