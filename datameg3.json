@@ -1,0 +1,2806 @@
+{
+    "id": 1,
+    "user": "Alegria10000205",
+    "password": "S10000205Alegria",
+    "email": "SebastianAlegria@gmail.com",
+    "data_user": {
+        "nombre": "SEBASTIAN FERNANDO",
+        "apellidos": "ALEGRIA BAUTISTA",
+        "carrera_u": "PSICOLOGIA",
+        "codigo": 10000205
+    },
+    "data_puntaje": {
+        "sem_1": {
+            "hab": 291.0,
+            "mat": 54.38,
+            "com": 177.75,
+            "pfrh": 132.13,
+            "cs": 76.63,
+            "cta": 86.5,
+            "puntaje": 818.38
+        },
+        "sem_2": {
+            "hab": 82.0,
+            "mat": 95.5,
+            "com": 137.75,
+            "pfrh": 137.75,
+            "cs": 136.63,
+            "cta": 6.5,
+            "puntaje": 596.13
+        },
+        "sem_3": {
+            "hab": 198.63,
+            "mat": 67.63,
+            "com": 51.0,
+            "pfrh": 214.38,
+            "cs": 52.13,
+            "cta": 149.88,
+            "puntaje": 733.63
+        },
+        "sem_4": {
+            "hab": 307.63,
+            "mat": 109.88,
+            "com": 135.5,
+            "pfrh": 214.38,
+            "cs": 52.13,
+            "cta": 128.75,
+            "puntaje": 948.25
+        },
+        "sem_5": {
+            "hab": 156.38,
+            "mat": 25.38,
+            "com": 72.13,
+            "pfrh": 45.38,
+            "cs": 53.25,
+            "cta": 64.25,
+            "puntaje": 416.75
+        },
+        "sem_6": {
+            "hab": 288.75,
+            "mat": 17.75,
+            "com": 74.38,
+            "pfrh": 133.25,
+            "cs": 94.38,
+            "cta": 193.25,
+            "puntaje": 801.75
+        },
+        "sem_7": {
+            "hab": 246.5,
+            "mat": 37.75,
+            "com": 51.0,
+            "pfrh": 132.13,
+            "cs": 94.38,
+            "cta": 45.38,
+            "puntaje": 607.13
+        },
+        "sem_8": {
+            "hab": 391.0,
+            "mat": 58.88,
+            "com": 75.5,
+            "pfrh": 109.88,
+            "cs": 94.38,
+            "cta": 135.5,
+            "puntaje": 865.13
+        }
+    }
+},{
+    "id": 2,
+    "user": "Alejos10000350",
+    "password": "I10000350Alejos",
+    "email": "IsaacAlejos@gmail.com",
+    "data_user": {
+        "nombre": "ISAAC WILLIAM",
+        "apellidos": "ALEJOS OTINIANO",
+        "carrera_u": "EDUCACION FISICA",
+        "codigo": 10000350
+    },
+    "data_puntaje": {
+        "sem_1": {
+            "hab": 315.5,
+            "mat": 120.0,
+            "com": 115.5,
+            "pfrh": 258.88,
+            "cs": 37.75,
+            "cta": 75.5,
+            "puntaje": 923.13
+        },
+        "sem_2": {
+            "hab": 156.38,
+            "mat": 152.13,
+            "com": 114.38,
+            "pfrh": 129.88,
+            "cs": 52.13,
+            "cta": 22.0,
+            "puntaje": 626.88
+        },
+        "sem_3": {
+            "hab": 177.5,
+            "mat": 109.88,
+            "com": 72.13,
+            "pfrh": 87.63,
+            "cs": 31.0,
+            "cta": 106.5,
+            "puntaje": 584.63
+        },
+        "sem_4": {
+            "hab": 198.63,
+            "mat": 88.75,
+            "com": 93.25,
+            "pfrh": 129.88,
+            "cs": 52.13,
+            "cta": 64.25,
+            "puntaje": 626.88
+        },
+        "sem_5": {
+            "hab": 0.0,
+            "mat": 0.0,
+            "com": 0.0,
+            "pfrh": 0.0,
+            "cs": 0.0,
+            "cta": 0.0,
+            "puntaje": 0.0
+        },
+        "sem_6": {
+            "hab": 114.13,
+            "mat": 46.5,
+            "com": 93.25,
+            "pfrh": 24.25,
+            "cs": 31.0,
+            "cta": 106.5,
+            "puntaje": 415.63
+        },
+        "sem_7": {
+            "hab": 263.13,
+            "mat": 88.75,
+            "com": 51.0,
+            "pfrh": 129.88,
+            "cs": 116.63,
+            "cta": 85.38,
+            "puntaje": 734.75
+        },
+        "sem_8": {
+            "hab": 220.88,
+            "mat": 89.88,
+            "com": 29.88,
+            "pfrh": 108.75,
+            "cs": 94.38,
+            "cta": 22.0,
+            "puntaje": 565.75
+        }
+    }
+},{
+    "id": 3,
+    "user": "Burgos10000495",
+    "password": "M10000495Burgos",
+    "email": "MateoBurgos@gmail.com",
+    "data_user": {
+        "nombre": "MATEO",
+        "apellidos": "BURGOS LEVA",
+        "carrera_u": "PSICOLOGIA",
+        "codigo": 10000495
+    },
+    "data_puntaje": {
+        "sem_1": {
+            "hab": 177.5,
+            "mat": 88.75,
+            "com": 72.13,
+            "pfrh": 129.88,
+            "cs": 31.0,
+            "cta": 64.25,
+            "puntaje": 563.5
+        },
+        "sem_2": {
+            "hab": 304.25,
+            "mat": 67.63,
+            "com": 114.38,
+            "pfrh": 66.5,
+            "cs": 9.88,
+            "cta": 106.5,
+            "puntaje": 669.13
+        },
+        "sem_3": {
+            "hab": 219.75,
+            "mat": 4.25,
+            "com": 29.88,
+            "pfrh": 66.5,
+            "cs": 73.25,
+            "cta": 86.5,
+            "puntaje": 480.13
+        },
+        "sem_4": {
+            "hab": 240.88,
+            "mat": 4.25,
+            "com": 93.25,
+            "pfrh": 129.88,
+            "cs": 31.0,
+            "cta": 127.63,
+            "puntaje": 626.88
+        },
+        "sem_5": {
+            "hab": 240.88,
+            "mat": 67.63,
+            "com": 114.38,
+            "pfrh": 172.13,
+            "cs": 31.0,
+            "cta": 64.25,
+            "puntaje": 690.25
+        },
+        "sem_6": {
+            "hab": 198.63,
+            "mat": 67.63,
+            "com": 93.25,
+            "pfrh": 129.88,
+            "cs": 94.38,
+            "cta": 127.63,
+            "puntaje": 711.38
+        },
+        "sem_7": {
+            "hab": 367.63,
+            "mat": 88.75,
+            "com": 93.25,
+            "pfrh": 108.75,
+            "cs": 53.25,
+            "cta": 85.38,
+            "puntaje": 797.0
+        },
+        "sem_8": {
+            "hab": 0.0,
+            "mat": 0.0,
+            "com": 0.0,
+            "pfrh": 0.0,
+            "cs": 0.0,
+            "cta": 0.0,
+            "puntaje": 0.0
+        }
+    }
+},{
+    "id": 4,
+    "user": "Carrillo10000640",
+    "password": "C10000640Carrillo",
+    "email": "CarmenCarrillo@gmail.com",
+    "data_user": {
+        "nombre": "CARMEN CIELO",
+        "apellidos": "CARRILLO HUACHO",
+        "carrera_u": "ADMINISTRACION",
+        "codigo": 10000640
+    },
+    "data_puntaje": {
+        "sem_1": {
+            "hab": 0.0,
+            "mat": 0.0,
+            "com": 0.0,
+            "pfrh": 0.0,
+            "cs": 0.0,
+            "cta": 0.0,
+            "puntaje": 0.0
+        },
+        "sem_2": {
+            "hab": 0.0,
+            "mat": 0.0,
+            "com": 0.0,
+            "pfrh": 0.0,
+            "cs": 0.0,
+            "cta": 0.0,
+            "puntaje": 0.0
+        },
+        "sem_3": {
+            "hab": 167.63,
+            "mat": 0.0,
+            "com": 54.38,
+            "pfrh": 9.88,
+            "cs": 17.75,
+            "cta": 38.88,
+            "puntaje": 288.5
+        },
+        "sem_4": {
+            "hab": 285.38,
+            "mat": 0.0,
+            "com": 136.63,
+            "pfrh": 36.63,
+            "cs": 17.75,
+            "cta": -1.13,
+            "puntaje": 475.25
+        },
+        "sem_5": {
+            "hab": 204.25,
+            "mat": -1.13,
+            "com": 114.38,
+            "pfrh": 72.13,
+            "cs": 56.63,
+            "cta": -6.75,
+            "puntaje": 439.5
+        },
+        "sem_6": {
+            "hab": 178.63,
+            "mat": 18.88,
+            "com": 52.13,
+            "pfrh": 88.75,
+            "cs": 9.88,
+            "cta": 58.88,
+            "puntaje": 407.13
+        },
+        "sem_7": {
+            "hab": 473.25,
+            "mat": -1.13,
+            "com": 72.13,
+            "pfrh": 174.38,
+            "cs": 73.25,
+            "cta": 74.38,
+            "puntaje": 866.25
+        },
+        "sem_8": {
+            "hab": 0.0,
+            "mat": 0.0,
+            "com": 0.0,
+            "pfrh": 0.0,
+            "cs": 0.0,
+            "cta": 0.0,
+            "puntaje": 0.0
+        }
+    }
+},{
+    "id": 5,
+    "user": "Castro10000785",
+    "password": "D10000785Castro",
+    "email": "DharmaCastro@gmail.com",
+    "data_user": {
+        "nombre": "DHARMA",
+        "apellidos": "CASTRO MANUICO",
+        "carrera_u": "ECONOMIA",
+        "codigo": 10000785
+    },
+    "data_puntaje": {
+        "sem_1": {
+            "hab": 394.38,
+            "mat": 236.63,
+            "com": 198.88,
+            "pfrh": 176.63,
+            "cs": 60.0,
+            "cta": 217.75,
+            "puntaje": 1284.25
+        },
+        "sem_2": {
+            "hab": 436.63,
+            "mat": 260.0,
+            "com": 220.0,
+            "pfrh": 138.88,
+            "cs": 158.88,
+            "cta": 55.5,
+            "puntaje": 1269.88
+        },
+        "sem_3": {
+            "hab": 0.0,
+            "mat": 0.0,
+            "com": 0.0,
+            "pfrh": 0.0,
+            "cs": 0.0,
+            "cta": 0.0,
+            "puntaje": 0.0
+        },
+        "sem_4": {
+            "hab": 396.63,
+            "mat": 260.0,
+            "com": 178.88,
+            "pfrh": 280.0,
+            "cs": 138.88,
+            "cta": 317.75,
+            "puntaje": 1572.13
+        },
+        "sem_5": {
+            "hab": 198.88,
+            "mat": 240.0,
+            "com": 220.0,
+            "pfrh": 236.63,
+            "cs": 160.0,
+            "cta": 257.75,
+            "puntaje": 1313.25
+        },
+        "sem_6": {
+            "hab": 333.25,
+            "mat": 238.88,
+            "com": 177.75,
+            "pfrh": 218.88,
+            "cs": 157.75,
+            "cta": 360.0,
+            "puntaje": 1486.5
+        },
+        "sem_7": {
+            "hab": 557.75,
+            "mat": 217.75,
+            "com": 177.75,
+            "pfrh": 216.63,
+            "cs": 178.88,
+            "cta": 254.38,
+            "puntaje": 1603.13
+        },
+        "sem_8": {
+            "hab": 375.5,
+            "mat": 140.0,
+            "com": 136.63,
+            "pfrh": 177.75,
+            "cs": 180.0,
+            "cta": 215.5,
+            "puntaje": 1225.38
+        }
+    }
+},{
+    "id": 6,
+    "user": "Ccenua10000930",
+    "password": "J10000930Ccenua",
+    "email": "JarenCcenua@gmail.com",
+    "data_user": {
+        "nombre": "JAREN ALEXANDER",
+        "apellidos": "CCENUA QUITO",
+        "carrera_u": "INGENIERIA CIVIL",
+        "codigo": 10000930
+    },
+    "data_puntaje": {
+        "sem_1": {
+            "hab": 177.5,
+            "mat": 88.75,
+            "com": 29.88,
+            "pfrh": 129.88,
+            "cs": 115.5,
+            "cta": 64.25,
+            "puntaje": 605.75
+        },
+        "sem_2": {
+            "hab": 0.0,
+            "mat": 0.0,
+            "com": 0.0,
+            "pfrh": 0.0,
+            "cs": 0.0,
+            "cta": 0.0,
+            "puntaje": 0.0
+        },
+        "sem_3": {
+            "hab": 304.25,
+            "mat": 4.25,
+            "com": 114.38,
+            "pfrh": 24.25,
+            "cs": 52.13,
+            "cta": 64.25,
+            "puntaje": 563.5
+        },
+        "sem_4": {
+            "hab": 135.25,
+            "mat": 68.75,
+            "com": 8.75,
+            "pfrh": 87.63,
+            "cs": 52.13,
+            "cta": 64.25,
+            "puntaje": 416.75
+        },
+        "sem_5": {
+            "hab": 283.13,
+            "mat": 25.38,
+            "com": 72.13,
+            "pfrh": 87.63,
+            "cs": 31.0,
+            "cta": 127.63,
+            "puntaje": 626.88
+        },
+        "sem_6": {
+            "hab": 325.38,
+            "mat": -16.88,
+            "com": -12.38,
+            "pfrh": 24.25,
+            "cs": 73.25,
+            "cta": 127.63,
+            "puntaje": 521.25
+        },
+        "sem_7": {
+            "hab": 219.75,
+            "mat": 109.88,
+            "com": 51.0,
+            "pfrh": 87.63,
+            "cs": 31.0,
+            "cta": 43.13,
+            "puntaje": 542.38
+        },
+        "sem_8": {
+            "hab": 219.75,
+            "mat": 67.63,
+            "com": 72.13,
+            "pfrh": 129.88,
+            "cs": 53.25,
+            "cta": 106.5,
+            "puntaje": 649.13
+        }
+    }
+},{
+    "id": 7,
+    "user": "Cervantes10001075",
+    "password": "J10001075Cervantes",
+    "email": "JonathanCervantes@gmail.com",
+    "data_user": {
+        "nombre": "JONATHAN OCTAVIO EMILIO",
+        "apellidos": "CERVANTES SORIA",
+        "carrera_u": "CONTABILIDAD",
+        "codigo": 10001075
+    },
+    "data_puntaje": {
+        "sem_1": {
+            "hab": 262.0,
+            "mat": 109.88,
+            "com": 72.13,
+            "pfrh": 108.75,
+            "cs": 31.0,
+            "cta": 169.88,
+            "puntaje": 753.63
+        },
+        "sem_2": {
+            "hab": 115.25,
+            "mat": 215.5,
+            "com": 51.0,
+            "pfrh": 67.63,
+            "cs": 73.25,
+            "cta": 43.13,
+            "puntaje": 565.75
+        },
+        "sem_3": {
+            "hab": 211.0,
+            "mat": 131.0,
+            "com": 51.0,
+            "pfrh": 129.88,
+            "cs": 9.88,
+            "cta": 85.38,
+            "puntaje": 618.13
+        },
+        "sem_4": {
+            "hab": 249.88,
+            "mat": 132.13,
+            "com": 156.63,
+            "pfrh": 129.88,
+            "cs": 94.38,
+            "cta": 107.63,
+            "puntaje": 870.5
+        },
+        "sem_5": {
+            "hab": 269.88,
+            "mat": 154.38,
+            "com": 29.88,
+            "pfrh": 109.88,
+            "cs": 31.0,
+            "cta": 64.25,
+            "puntaje": 659.25
+        },
+        "sem_6": {
+            "hab": 249.88,
+            "mat": 194.38,
+            "com": 93.25,
+            "pfrh": 24.25,
+            "cs": 31.0,
+            "cta": 127.63,
+            "puntaje": 720.38
+        },
+        "sem_7": {
+            "hab": 367.63,
+            "mat": 176.63,
+            "com": 31.0,
+            "pfrh": 153.25,
+            "cs": 53.25,
+            "cta": 28.75,
+            "puntaje": 810.5
+        },
+        "sem_8": {
+            "hab": 186.5,
+            "mat": 80.0,
+            "com": 56.63,
+            "pfrh": 113.25,
+            "cs": 53.25,
+            "cta": 67.63,
+            "puntaje": 557.25
+        }
+    }
+},{
+    "id": 8,
+    "user": "Chavez10001220",
+    "password": "E10001220Chavez",
+    "email": "EmilyChavez@gmail.com",
+    "data_user": {
+        "nombre": "EMILY ANABEL",
+        "apellidos": "CHAVEZ FLORES",
+        "carrera_u": "INGENIERIA DE TELECOMUNICACIONES",
+        "codigo": 10001220
+    },
+    "data_puntaje": {
+        "sem_1": {
+            "hab": 129.88,
+            "mat": 34.38,
+            "com": 116.63,
+            "pfrh": 76.63,
+            "cs": 40.0,
+            "cta": 54.38,
+            "puntaje": 451.88
+        },
+        "sem_2": {
+            "hab": -2.25,
+            "mat": -1.13,
+            "com": 0.0,
+            "pfrh": 0.0,
+            "cs": -1.13,
+            "cta": 0.0,
+            "puntaje": -4.5
+        },
+        "sem_3": {
+            "hab": 135.5,
+            "mat": 117.75,
+            "com": 97.75,
+            "pfrh": 36.63,
+            "cs": 53.25,
+            "cta": 37.75,
+            "puntaje": 478.63
+        },
+        "sem_4": {
+            "hab": 0.0,
+            "mat": 0.0,
+            "com": 0.0,
+            "pfrh": 0.0,
+            "cs": 0.0,
+            "cta": 0.0,
+            "puntaje": 0.0
+        },
+        "sem_5": {
+            "hab": 0.0,
+            "mat": 0.0,
+            "com": 0.0,
+            "pfrh": 0.0,
+            "cs": 0.0,
+            "cta": 0.0,
+            "puntaje": 0.0
+        },
+        "sem_6": {
+            "hab": 94.38,
+            "mat": 38.88,
+            "com": 96.63,
+            "pfrh": 0.0,
+            "cs": 55.5,
+            "cta": 38.88,
+            "puntaje": 324.25
+        },
+        "sem_7": {
+            "hab": 215.5,
+            "mat": 0.0,
+            "com": 57.75,
+            "pfrh": 96.63,
+            "cs": 60.0,
+            "cta": 17.75,
+            "puntaje": 447.63
+        },
+        "sem_8": {
+            "hab": 292.13,
+            "mat": 16.63,
+            "com": 13.25,
+            "pfrh": 35.5,
+            "cs": 17.75,
+            "cta": 17.75,
+            "puntaje": 393.0
+        }
+    }
+},{
+    "id": 9,
+    "user": "Chura10001365",
+    "password": "N10001365Chura",
+    "email": "NatalyChura@gmail.com",
+    "data_user": {
+        "nombre": "NATALY",
+        "apellidos": "CHURA MONTOYA",
+        "carrera_u": "ADMINISTRACION DE NEGOCIOS INTERNACIONALES",
+        "codigo": 10001365
+    },
+    "data_puntaje": {
+        "sem_1": {
+            "hab": 0.0,
+            "mat": 0.0,
+            "com": 0.0,
+            "pfrh": 0.0,
+            "cs": 0.0,
+            "cta": 0.0,
+            "puntaje": 0.0
+        },
+        "sem_2": {
+            "hab": 262.0,
+            "mat": 109.88,
+            "com": 51.0,
+            "pfrh": 24.25,
+            "cs": 94.38,
+            "cta": 43.13,
+            "puntaje": 584.63
+        },
+        "sem_3": {
+            "hab": 219.75,
+            "mat": 152.13,
+            "com": 135.5,
+            "pfrh": 129.88,
+            "cs": -11.25,
+            "cta": 43.13,
+            "puntaje": 669.13
+        },
+        "sem_4": {
+            "hab": 262.0,
+            "mat": 88.75,
+            "com": 93.25,
+            "pfrh": 108.75,
+            "cs": 52.13,
+            "cta": 86.5,
+            "puntaje": 691.38
+        },
+        "sem_5": {
+            "hab": 177.5,
+            "mat": 47.63,
+            "com": 51.0,
+            "pfrh": 129.88,
+            "cs": -11.25,
+            "cta": 43.13,
+            "puntaje": 437.88
+        },
+        "sem_6": {
+            "hab": 240.88,
+            "mat": 69.88,
+            "com": 72.13,
+            "pfrh": 3.13,
+            "cs": 9.88,
+            "cta": 149.88,
+            "puntaje": 545.75
+        },
+        "sem_7": {
+            "hab": 431.0,
+            "mat": 88.75,
+            "com": 29.88,
+            "pfrh": 108.75,
+            "cs": 73.25,
+            "cta": 127.63,
+            "puntaje": 859.25
+        },
+        "sem_8": {
+            "hab": 346.5,
+            "mat": 67.63,
+            "com": 93.25,
+            "pfrh": 129.88,
+            "cs": 94.38,
+            "cta": 22.0,
+            "puntaje": 753.63
+        }
+    }
+},{
+    "id": 10,
+    "user": "Duenas10001510",
+    "password": "L10001510Duenas",
+    "email": "LuisaDuenas@gmail.com",
+    "data_user": {
+        "nombre": "LUISA",
+        "apellidos": "DUENAS TAYPE",
+        "carrera_u": "ARQUITECTURA",
+        "codigo": 10001510
+    },
+    "data_puntaje": {
+        "sem_1": {
+            "hab": 207.63,
+            "mat": 154.38,
+            "com": 114.38,
+            "pfrh": 236.63,
+            "cs": 98.88,
+            "cta": 108.75,
+            "puntaje": 920.63
+        },
+        "sem_2": {
+            "hab": 71.0,
+            "mat": 131.0,
+            "com": 177.75,
+            "pfrh": 129.88,
+            "cs": 136.63,
+            "cta": 44.25,
+            "puntaje": 690.5
+        },
+        "sem_3": {
+            "hab": 202.0,
+            "mat": 133.25,
+            "com": 93.25,
+            "pfrh": 88.75,
+            "cs": 53.25,
+            "cta": 152.13,
+            "puntaje": 722.63
+        },
+        "sem_4": {
+            "hab": 226.5,
+            "mat": 11.0,
+            "com": 93.25,
+            "pfrh": 194.38,
+            "cs": 74.38,
+            "cta": 151.0,
+            "puntaje": 750.5
+        },
+        "sem_5": {
+            "hab": 253.25,
+            "mat": 57.75,
+            "com": 136.63,
+            "pfrh": 109.88,
+            "cs": 136.63,
+            "cta": 28.75,
+            "puntaje": 722.88
+        },
+        "sem_6": {
+            "hab": 189.88,
+            "mat": 95.5,
+            "com": 72.13,
+            "pfrh": 174.38,
+            "cs": 73.25,
+            "cta": 131.0,
+            "puntaje": 736.13
+        },
+        "sem_7": {
+            "hab": 268.75,
+            "mat": 76.63,
+            "com": 73.25,
+            "pfrh": 236.63,
+            "cs": 116.63,
+            "cta": 151.0,
+            "puntaje": 922.88
+        },
+        "sem_8": {
+            "hab": 248.75,
+            "mat": 55.5,
+            "com": 75.5,
+            "pfrh": 47.63,
+            "cs": 33.25,
+            "cta": 109.88,
+            "puntaje": 570.5
+        }
+    }
+},{
+    "id": 11,
+    "user": "Gomez10001655",
+    "password": "O10001655Gomez",
+    "email": "OmarGomez@gmail.com",
+    "data_user": {
+        "nombre": "OMAR AARON",
+        "apellidos": "GOMEZ PULACHE",
+        "carrera_u": "ECONOMIA INTERNACIONAL",
+        "codigo": 10001655
+    },
+    "data_puntaje": {
+        "sem_1": {
+            "hab": 262.0,
+            "mat": 194.38,
+            "com": 220.0,
+            "pfrh": 235.5,
+            "cs": 73.25,
+            "cta": 191.0,
+            "puntaje": 1176.13
+        },
+        "sem_2": {
+            "hab": 240.88,
+            "mat": 152.13,
+            "com": 177.75,
+            "pfrh": 108.75,
+            "cs": 73.25,
+            "cta": 85.38,
+            "puntaje": 838.13
+        },
+        "sem_3": {
+            "hab": 367.63,
+            "mat": 152.13,
+            "com": 114.38,
+            "pfrh": 172.13,
+            "cs": 52.13,
+            "cta": 127.63,
+            "puntaje": 986.0
+        },
+        "sem_4": {
+            "hab": 263.13,
+            "mat": 47.63,
+            "com": 177.75,
+            "pfrh": 172.13,
+            "cs": 136.63,
+            "cta": 148.75,
+            "puntaje": 946.0
+        },
+        "sem_5": {
+            "hab": 262.0,
+            "mat": 109.88,
+            "com": 156.63,
+            "pfrh": 193.25,
+            "cs": 73.25,
+            "cta": 106.5,
+            "puntaje": 901.5
+        },
+        "sem_6": {
+            "hab": 177.5,
+            "mat": 88.75,
+            "com": 156.63,
+            "pfrh": 172.13,
+            "cs": 136.63,
+            "cta": 148.75,
+            "puntaje": 880.38
+        },
+        "sem_7": {
+            "hab": 473.25,
+            "mat": 131.0,
+            "com": 136.63,
+            "pfrh": 193.25,
+            "cs": 115.5,
+            "cta": 64.25,
+            "puntaje": 1113.88
+        },
+        "sem_8": {
+            "hab": 304.25,
+            "mat": 131.0,
+            "com": 135.5,
+            "pfrh": 172.13,
+            "cs": 115.5,
+            "cta": 127.63,
+            "puntaje": 986.0
+        }
+    }
+},{
+    "id": 12,
+    "user": "Gonzales10001800",
+    "password": "H10001800Gonzales",
+    "email": "HeidyGonzales@gmail.com",
+    "data_user": {
+        "nombre": "HEIDY ALEXANDRA",
+        "apellidos": "GONZALES PENA",
+        "carrera_u": "EDUCACION SECUNDARIA",
+        "codigo": 10001800
+    },
+    "data_puntaje": {
+        "sem_1": {
+            "hab": 0.0,
+            "mat": 0.0,
+            "com": 0.0,
+            "pfrh": 0.0,
+            "cs": 0.0,
+            "cta": 0.0,
+            "puntaje": 0.0
+        },
+        "sem_2": {
+            "hab": 109.88,
+            "mat": 0.0,
+            "com": 51.0,
+            "pfrh": 66.5,
+            "cs": 52.13,
+            "cta": 14.38,
+            "puntaje": 293.88
+        },
+        "sem_3": {
+            "hab": 64.25,
+            "mat": 40.0,
+            "com": 51.0,
+            "pfrh": 24.25,
+            "cs": 31.0,
+            "cta": 86.5,
+            "puntaje": 297.0
+        },
+        "sem_4": {
+            "hab": 64.25,
+            "mat": 18.88,
+            "com": 54.38,
+            "pfrh": 33.25,
+            "cs": 52.13,
+            "cta": 36.63,
+            "puntaje": 259.5
+        },
+        "sem_5": {
+            "hab": 92.13,
+            "mat": -1.13,
+            "com": 16.63,
+            "pfrh": 46.5,
+            "cs": 55.5,
+            "cta": 12.13,
+            "puntaje": 221.75
+        },
+        "sem_6": {
+            "hab": 135.25,
+            "mat": 4.25,
+            "com": 29.88,
+            "pfrh": 66.5,
+            "cs": -11.25,
+            "cta": 86.5,
+            "puntaje": 311.13
+        },
+        "sem_7": {
+            "hab": 129.88,
+            "mat": 34.38,
+            "com": 116.63,
+            "pfrh": 76.63,
+            "cs": 40.0,
+            "cta": 54.38,
+            "puntaje": 451.88
+        },
+        "sem_8": {
+            "hab": 0.0,
+            "mat": 0.0,
+            "com": 0.0,
+            "pfrh": 0.0,
+            "cs": 0.0,
+            "cta": 0.0,
+            "puntaje": 0.0
+        }
+    }
+},{
+    "id": 13,
+    "user": "Gutierrez10001945",
+    "password": "J10001945Gutierrez",
+    "email": "JeanGutierrez@gmail.com",
+    "data_user": {
+        "nombre": "JEAN PIERE",
+        "apellidos": "GUTIERREZ HUARCAYA",
+        "carrera_u": "ARQUITECTURA",
+        "codigo": 10001945
+    },
+    "data_puntaje": {
+        "sem_1": {
+            "hab": 204.25,
+            "mat": 155.5,
+            "com": 135.5,
+            "pfrh": 111.0,
+            "cs": 56.63,
+            "cta": 95.5,
+            "puntaje": 758.38
+        },
+        "sem_2": {
+            "hab": 93.0,
+            "mat": 178.88,
+            "com": 156.63,
+            "pfrh": 8.75,
+            "cs": 96.63,
+            "cta": 51.0,
+            "puntaje": 584.88
+        },
+        "sem_3": {
+            "hab": 219.75,
+            "mat": 177.75,
+            "com": 93.25,
+            "pfrh": 108.75,
+            "cs": 52.13,
+            "cta": 106.5,
+            "puntaje": 758.13
+        },
+        "sem_4": {
+            "hab": 204.25,
+            "mat": 115.5,
+            "com": 93.25,
+            "pfrh": 72.13,
+            "cs": 31.0,
+            "cta": 94.38,
+            "puntaje": 610.5
+        },
+        "sem_5": {
+            "hab": 74.13,
+            "mat": 174.38,
+            "com": 114.38,
+            "pfrh": 108.75,
+            "cs": 52.13,
+            "cta": 29.88,
+            "puntaje": 553.63
+        },
+        "sem_6": {
+            "hab": 157.5,
+            "mat": 112.13,
+            "com": 72.13,
+            "pfrh": 24.25,
+            "cs": 178.88,
+            "cta": 109.88,
+            "puntaje": 654.75
+        },
+        "sem_7": {
+            "hab": 0.0,
+            "mat": 0.0,
+            "com": 0.0,
+            "pfrh": 0.0,
+            "cs": 0.0,
+            "cta": 0.0,
+            "puntaje": 0.0
+        },
+        "sem_8": {
+            "hab": 264.25,
+            "mat": 157.75,
+            "com": 51.0,
+            "pfrh": 172.13,
+            "cs": 94.38,
+            "cta": 36.63,
+            "puntaje": 776.13
+        }
+    }
+},{
+    "id": 14,
+    "user": "Guzman10002090",
+    "password": "M10002090Guzman",
+    "email": "MiguelGuzman@gmail.com",
+    "data_user": {
+        "nombre": "MIGUEL ALEJANDRO",
+        "apellidos": "GUZMAN CUENTAS",
+        "carrera_u": "INGENIERIA DE SOFTWARE",
+        "codigo": 10002090
+    },
+    "data_puntaje": {
+        "sem_1": {
+            "hab": 0.0,
+            "mat": 0.0,
+            "com": 0.0,
+            "pfrh": 0.0,
+            "cs": 0.0,
+            "cta": 0.0,
+            "puntaje": 0.0
+        },
+        "sem_2": {
+            "hab": 243.13,
+            "mat": 71.0,
+            "com": 177.75,
+            "pfrh": 87.63,
+            "cs": 75.5,
+            "cta": 27.63,
+            "puntaje": 682.63
+        },
+        "sem_3": {
+            "hab": 291.0,
+            "mat": 54.38,
+            "com": 177.75,
+            "pfrh": 132.13,
+            "cs": 76.63,
+            "cta": 86.5,
+            "puntaje": 818.38
+        },
+        "sem_4": {
+            "hab": 312.13,
+            "mat": 240.0,
+            "com": 35.5,
+            "pfrh": 97.75,
+            "cs": 74.38,
+            "cta": 91.0,
+            "puntaje": 850.75
+        },
+        "sem_5": {
+            "hab": 334.38,
+            "mat": 200.0,
+            "com": 136.63,
+            "pfrh": 72.13,
+            "cs": 54.38,
+            "cta": 133.25,
+            "puntaje": 930.75
+        },
+        "sem_6": {
+            "hab": 289.88,
+            "mat": 156.63,
+            "com": 33.25,
+            "pfrh": -3.38,
+            "cs": 57.75,
+            "cta": 172.13,
+            "puntaje": 706.25
+        },
+        "sem_7": {
+            "hab": 268.75,
+            "mat": 177.75,
+            "com": 140.0,
+            "pfrh": 158.88,
+            "cs": 97.75,
+            "cta": 32.13,
+            "puntaje": 875.25
+        },
+        "sem_8": {
+            "hab": 197.75,
+            "mat": 178.88,
+            "com": 94.38,
+            "pfrh": 29.88,
+            "cs": 77.75,
+            "cta": 12.13,
+            "puntaje": 590.75
+        }
+    }
+},{
+    "id": 15,
+    "user": "Huaman10002235",
+    "password": "Y10002235Huaman",
+    "email": "YajairaHuaman@gmail.com",
+    "data_user": {
+        "nombre": "YAJAIRA LIVIA",
+        "apellidos": "HUAMAN CAZOLDA",
+        "carrera_u": "ADMINISTRACION",
+        "codigo": 10002235
+    },
+    "data_puntaje": {
+        "sem_1": {
+            "hab": 0.0,
+            "mat": 0.0,
+            "com": 0.0,
+            "pfrh": 0.0,
+            "cs": 0.0,
+            "cta": 0.0,
+            "puntaje": 0.0
+        },
+        "sem_2": {
+            "hab": 0.0,
+            "mat": 0.0,
+            "com": 0.0,
+            "pfrh": 0.0,
+            "cs": 0.0,
+            "cta": 0.0,
+            "puntaje": 0.0
+        },
+        "sem_3": {
+            "hab": 292.13,
+            "mat": 36.63,
+            "com": 51.0,
+            "pfrh": 37.75,
+            "cs": 36.63,
+            "cta": 127.63,
+            "puntaje": 581.75
+        },
+        "sem_4": {
+            "hab": 206.5,
+            "mat": 57.75,
+            "com": 135.5,
+            "pfrh": 108.75,
+            "cs": 94.38,
+            "cta": 148.75,
+            "puntaje": 751.63
+        },
+        "sem_5": {
+            "hab": 285.38,
+            "mat": -2.25,
+            "com": 177.75,
+            "pfrh": 151.0,
+            "cs": 115.5,
+            "cta": 49.88,
+            "puntaje": 777.25
+        },
+        "sem_6": {
+            "hab": 209.88,
+            "mat": 20.0,
+            "com": 114.38,
+            "pfrh": 25.38,
+            "cs": 13.25,
+            "cta": 0.0,
+            "puntaje": 382.88
+        },
+        "sem_7": {
+            "hab": 374.38,
+            "mat": 58.88,
+            "com": 177.75,
+            "pfrh": 298.88,
+            "cs": 94.38,
+            "cta": 89.88,
+            "puntaje": 1094.13
+        },
+        "sem_8": {
+            "hab": 233.25,
+            "mat": 0.0,
+            "com": 114.38,
+            "pfrh": 108.75,
+            "cs": 73.25,
+            "cta": 34.38,
+            "puntaje": 564.0
+        }
+    }
+},{
+    "id": 16,
+    "user": "Huapaya10002380",
+    "password": "S10002380Huapaya",
+    "email": "StefanoHuapaya@gmail.com",
+    "data_user": {
+        "nombre": "STEFANO ANDRE",
+        "apellidos": "HUAPAYA REYES",
+        "carrera_u": "PSICOLOGIA",
+        "codigo": 10002380
+    },
+    "data_puntaje": {
+        "sem_1": {
+            "hab": 240.88,
+            "mat": 152.13,
+            "com": 177.75,
+            "pfrh": 172.13,
+            "cs": 73.25,
+            "cta": 127.63,
+            "puntaje": 943.75
+        },
+        "sem_2": {
+            "hab": 135.25,
+            "mat": 109.88,
+            "com": 135.5,
+            "pfrh": 193.25,
+            "cs": 31.0,
+            "cta": 85.38,
+            "puntaje": 690.25
+        },
+        "sem_3": {
+            "hab": 304.25,
+            "mat": 88.75,
+            "com": 177.75,
+            "pfrh": 193.25,
+            "cs": 9.88,
+            "cta": 191.0,
+            "puntaje": 964.88
+        },
+        "sem_4": {
+            "hab": 213.25,
+            "mat": 175.5,
+            "com": 198.88,
+            "pfrh": 172.13,
+            "cs": 115.5,
+            "cta": 112.13,
+            "puntaje": 987.38
+        },
+        "sem_5": {
+            "hab": 189.88,
+            "mat": 73.25,
+            "com": 177.75,
+            "pfrh": 87.63,
+            "cs": 115.5,
+            "cta": 14.38,
+            "puntaje": 658.38
+        },
+        "sem_6": {
+            "hab": 165.38,
+            "mat": 16.63,
+            "com": 156.63,
+            "pfrh": 69.88,
+            "cs": 136.63,
+            "cta": 92.13,
+            "puntaje": 637.25
+        },
+        "sem_7": {
+            "hab": 411.0,
+            "mat": 55.5,
+            "com": 51.0,
+            "pfrh": 153.25,
+            "cs": 115.5,
+            "cta": 44.25,
+            "puntaje": 830.5
+        },
+        "sem_8": {
+            "hab": 207.63,
+            "mat": 0.0,
+            "com": 114.38,
+            "pfrh": 109.88,
+            "cs": 115.5,
+            "cta": 92.13,
+            "puntaje": 639.5
+        }
+    }
+},{
+    "id": 17,
+    "user": "Humpiri10002525",
+    "password": "A10002525Humpiri",
+    "email": "AymarHumpiri@gmail.com",
+    "data_user": {
+        "nombre": "AYMAR DANIEL",
+        "apellidos": "HUMPIRI ORTIZ",
+        "carrera_u": "INGENIERIA ELECTRONICA",
+        "codigo": 10002525
+    },
+    "data_puntaje": {
+        "sem_1": {
+            "hab": 315.5,
+            "mat": 236.63,
+            "com": 177.75,
+            "pfrh": 196.63,
+            "cs": 60.0,
+            "cta": 214.38,
+            "puntaje": 1200.88
+        },
+        "sem_2": {
+            "hab": 331.0,
+            "mat": 197.75,
+            "com": 177.75,
+            "pfrh": 160.0,
+            "cs": 33.25,
+            "cta": 135.5,
+            "puntaje": 1035.25
+        },
+        "sem_3": {
+            "hab": 376.63,
+            "mat": 280.0,
+            "com": 156.63,
+            "pfrh": 236.63,
+            "cs": 76.63,
+            "cta": 254.38,
+            "puntaje": 1380.88
+        },
+        "sem_4": {
+            "hab": 329.88,
+            "mat": 236.63,
+            "com": 198.88,
+            "pfrh": 151.0,
+            "cs": 94.38,
+            "cta": 149.88,
+            "puntaje": 1160.63
+        },
+        "sem_5": {
+            "hab": 252.13,
+            "mat": 115.5,
+            "com": 156.63,
+            "pfrh": 87.63,
+            "cs": 52.13,
+            "cta": 129.88,
+            "puntaje": 793.88
+        },
+        "sem_6": {
+            "hab": 325.38,
+            "mat": 198.88,
+            "com": 135.5,
+            "pfrh": 172.13,
+            "cs": 136.63,
+            "cta": 169.88,
+            "puntaje": 1138.38
+        },
+        "sem_7": {
+            "hab": 287.63,
+            "mat": 257.75,
+            "com": 114.38,
+            "pfrh": 172.13,
+            "cs": 157.75,
+            "cta": 171.0,
+            "puntaje": 1160.63
+        },
+        "sem_8": {
+            "hab": 0.0,
+            "mat": 0.0,
+            "com": 0.0,
+            "pfrh": 0.0,
+            "cs": 0.0,
+            "cta": 0.0,
+            "puntaje": 0.0
+        }
+    }
+},{
+    "id": 18,
+    "user": "Jara10002670",
+    "password": "J10002670Jara",
+    "email": "JosephJara@gmail.com",
+    "data_user": {
+        "nombre": "JOSEPH",
+        "apellidos": "JARA CAPILLO",
+        "carrera_u": "INGENIERIA ELECTRONICA",
+        "codigo": 10002670
+    },
+    "data_puntaje": {
+        "sem_1": {
+            "hab": 283.13,
+            "mat": 88.75,
+            "com": 93.25,
+            "pfrh": 151.0,
+            "cs": 73.25,
+            "cta": 171.0,
+            "puntaje": 860.38
+        },
+        "sem_2": {
+            "hab": 240.88,
+            "mat": 109.88,
+            "com": 135.5,
+            "pfrh": 108.75,
+            "cs": 74.38,
+            "cta": 106.5,
+            "puntaje": 775.88
+        },
+        "sem_3": {
+            "hab": 240.88,
+            "mat": 88.75,
+            "com": 114.38,
+            "pfrh": 193.25,
+            "cs": 94.38,
+            "cta": 148.75,
+            "puntaje": 880.38
+        },
+        "sem_4": {
+            "hab": 372.13,
+            "mat": 67.63,
+            "com": 177.75,
+            "pfrh": 108.75,
+            "cs": 94.38,
+            "cta": 86.5,
+            "puntaje": 907.13
+        },
+        "sem_5": {
+            "hab": 180.88,
+            "mat": 109.88,
+            "com": 73.25,
+            "pfrh": 108.75,
+            "cs": 31.0,
+            "cta": 54.38,
+            "puntaje": 558.13
+        },
+        "sem_6": {
+            "hab": 262.0,
+            "mat": 88.75,
+            "com": 93.25,
+            "pfrh": 45.38,
+            "cs": 94.38,
+            "cta": 85.38,
+            "puntaje": 669.13
+        },
+        "sem_7": {
+            "hab": 494.38,
+            "mat": 88.75,
+            "com": 52.13,
+            "pfrh": 193.25,
+            "cs": 136.63,
+            "cta": 43.13,
+            "puntaje": 1008.25
+        },
+        "sem_8": {
+            "hab": 372.13,
+            "mat": 88.75,
+            "com": 156.63,
+            "pfrh": 87.63,
+            "cs": 73.25,
+            "cta": 148.75,
+            "puntaje": 927.13
+        }
+    }
+},{
+    "id": 19,
+    "user": "Llasayca10002815",
+    "password": "W10002815Llasayca",
+    "email": "WalterLlasayca@gmail.com",
+    "data_user": {
+        "nombre": "WALTER OSWALDO",
+        "apellidos": "LLASAYCA MEDINA",
+        "carrera_u": "PSICOLOGIA",
+        "codigo": 10002815
+    },
+    "data_puntaje": {
+        "sem_1": {
+            "hab": 0.0,
+            "mat": 0.0,
+            "com": 0.0,
+            "pfrh": 0.0,
+            "cs": 0.0,
+            "cta": 0.0,
+            "puntaje": 0.0
+        },
+        "sem_2": {
+            "hab": 64.25,
+            "mat": 18.88,
+            "com": 54.38,
+            "pfrh": 33.25,
+            "cs": 52.13,
+            "cta": 36.63,
+            "puntaje": 259.5
+        },
+        "sem_3": {
+            "hab": 0.0,
+            "mat": 0.0,
+            "com": 0.0,
+            "pfrh": 0.0,
+            "cs": 0.0,
+            "cta": 0.0,
+            "puntaje": 0.0
+        },
+        "sem_4": {
+            "hab": 158.63,
+            "mat": 73.25,
+            "com": 135.5,
+            "pfrh": 151.0,
+            "cs": 73.25,
+            "cta": 107.63,
+            "puntaje": 699.25
+        },
+        "sem_5": {
+            "hab": 219.75,
+            "mat": 25.38,
+            "com": 8.75,
+            "pfrh": 131.0,
+            "cs": 73.25,
+            "cta": 106.5,
+            "puntaje": 564.63
+        },
+        "sem_6": {
+            "hab": 198.63,
+            "mat": 67.63,
+            "com": 114.38,
+            "pfrh": 45.38,
+            "cs": 115.5,
+            "cta": 148.75,
+            "puntaje": 690.25
+        },
+        "sem_7": {
+            "hab": 346.5,
+            "mat": 46.5,
+            "com": 51.0,
+            "pfrh": 129.88,
+            "cs": 136.63,
+            "cta": 106.5,
+            "puntaje": 817.0
+        },
+        "sem_8": {
+            "hab": 346.5,
+            "mat": 67.63,
+            "com": 29.88,
+            "pfrh": 66.5,
+            "cs": 136.63,
+            "cta": 127.63,
+            "puntaje": 774.75
+        }
+    }
+},{
+    "id": 20,
+    "user": "Llasaycca10002960",
+    "password": "A10002960Llasaycca",
+    "email": "AndersonLlasaycca@gmail.com",
+    "data_user": {
+        "nombre": "ANDERSON",
+        "apellidos": "LLASAYCCA PANIAGUA",
+        "carrera_u": "MEDICINA HUMANA",
+        "codigo": 10002960
+    },
+    "data_puntaje": {
+        "sem_1": {
+            "hab": 165.38,
+            "mat": 97.75,
+            "com": 135.5,
+            "pfrh": 108.75,
+            "cs": 56.63,
+            "cta": 111.0,
+            "puntaje": 675.0
+        },
+        "sem_2": {
+            "hab": 188.75,
+            "mat": 152.13,
+            "com": 156.63,
+            "pfrh": 129.88,
+            "cs": 115.5,
+            "cta": 51.0,
+            "puntaje": 793.88
+        },
+        "sem_3": {
+            "hab": 109.88,
+            "mat": 194.38,
+            "com": 93.25,
+            "pfrh": 108.75,
+            "cs": 52.13,
+            "cta": 43.13,
+            "puntaje": 601.5
+        },
+        "sem_4": {
+            "hab": 143.13,
+            "mat": 14.38,
+            "com": 135.5,
+            "pfrh": 66.5,
+            "cs": 94.38,
+            "cta": 45.38,
+            "puntaje": 499.25
+        },
+        "sem_5": {
+            "hab": 0.0,
+            "mat": 0.0,
+            "com": 0.0,
+            "pfrh": 0.0,
+            "cs": 0.0,
+            "cta": 0.0,
+            "puntaje": 0.0
+        },
+        "sem_6": {
+            "hab": 227.63,
+            "mat": 18.88,
+            "com": 135.5,
+            "pfrh": 24.25,
+            "cs": 73.25,
+            "cta": 148.75,
+            "puntaje": 628.25
+        },
+        "sem_7": {
+            "hab": 367.63,
+            "mat": 8.75,
+            "com": 51.0,
+            "pfrh": 108.75,
+            "cs": 115.5,
+            "cta": 106.5,
+            "puntaje": 758.13
+        },
+        "sem_8": {
+            "hab": 263.13,
+            "mat": 11.0,
+            "com": 29.88,
+            "pfrh": 108.75,
+            "cs": 115.5,
+            "cta": 28.75,
+            "puntaje": 557.0
+        }
+    }
+},{
+    "id": 21,
+    "user": "Lopez10003105",
+    "password": "L10003105Lopez",
+    "email": "LeoLopez@gmail.com",
+    "data_user": {
+        "nombre": "LEO ALEXANDER",
+        "apellidos": "LOPEZ ARTEAGA",
+        "carrera_u": "MEDICINA HUMANA",
+        "codigo": 10003105
+    },
+    "data_puntaje": {
+        "sem_1": {
+            "hab": 0.0,
+            "mat": 0.0,
+            "com": 0.0,
+            "pfrh": 0.0,
+            "cs": 0.0,
+            "cta": 0.0,
+            "puntaje": 0.0
+        },
+        "sem_2": {
+            "hab": 0.0,
+            "mat": 0.0,
+            "com": 0.0,
+            "pfrh": 0.0,
+            "cs": 0.0,
+            "cta": 0.0,
+            "puntaje": 0.0
+        },
+        "sem_3": {
+            "hab": 195.5,
+            "mat": 120.0,
+            "com": 135.5,
+            "pfrh": 236.63,
+            "cs": 116.63,
+            "cta": 86.5,
+            "puntaje": 890.75
+        },
+        "sem_4": {
+            "hab": 347.63,
+            "mat": -5.63,
+            "com": 114.38,
+            "pfrh": 45.38,
+            "cs": 52.13,
+            "cta": 148.75,
+            "puntaje": 702.63
+        },
+        "sem_5": {
+            "hab": 269.88,
+            "mat": 29.88,
+            "com": 94.38,
+            "pfrh": 111.0,
+            "cs": 94.38,
+            "cta": 91.0,
+            "puntaje": 690.5
+        },
+        "sem_6": {
+            "hab": 265.38,
+            "mat": 72.13,
+            "com": 136.63,
+            "pfrh": 66.5,
+            "cs": 115.5,
+            "cta": 149.88,
+            "puntaje": 806.0
+        },
+        "sem_7": {
+            "hab": 494.38,
+            "mat": 88.75,
+            "com": 114.38,
+            "pfrh": 151.0,
+            "cs": 94.38,
+            "cta": 127.63,
+            "puntaje": 1070.5
+        },
+        "sem_8": {
+            "hab": 262.0,
+            "mat": 46.5,
+            "com": 72.13,
+            "pfrh": 45.38,
+            "cs": 52.13,
+            "cta": 22.0,
+            "puntaje": 500.13
+        }
+    }
+},{
+    "id": 22,
+    "user": "Medina10003250",
+    "password": "D10003250Medina",
+    "email": "DianaMedina@gmail.com",
+    "data_user": {
+        "nombre": "DIANA PAOLA",
+        "apellidos": "MEDINA MORENO",
+        "carrera_u": "EDUCACION PRIMARIA",
+        "codigo": 10003250
+    },
+    "data_puntaje": {
+        "sem_1": {
+            "hab": 274.38,
+            "mat": 154.38,
+            "com": 156.63,
+            "pfrh": 194.38,
+            "cs": 57.75,
+            "cta": 194.38,
+            "puntaje": 1031.88
+        },
+        "sem_2": {
+            "hab": 214.38,
+            "mat": 200.0,
+            "com": 178.88,
+            "pfrh": 158.88,
+            "cs": 54.38,
+            "cta": -2.25,
+            "puntaje": 804.25
+        },
+        "sem_3": {
+            "hab": 296.63,
+            "mat": 117.75,
+            "com": 178.88,
+            "pfrh": 278.88,
+            "cs": 118.88,
+            "cta": 55.5,
+            "puntaje": 1046.5
+        },
+        "sem_4": {
+            "hab": 312.13,
+            "mat": 56.63,
+            "com": 135.5,
+            "pfrh": 134.38,
+            "cs": 95.5,
+            "cta": 137.75,
+            "puntaje": 871.88
+        },
+        "sem_5": {
+            "hab": 297.75,
+            "mat": 40.0,
+            "com": 156.63,
+            "pfrh": 132.13,
+            "cs": 137.75,
+            "cta": 58.88,
+            "puntaje": 823.13
+        },
+        "sem_6": {
+            "hab": 212.13,
+            "mat": 118.88,
+            "com": 158.88,
+            "pfrh": 76.63,
+            "cs": 116.63,
+            "cta": 94.38,
+            "puntaje": 777.5
+        },
+        "sem_7": {
+            "hab": 495.5,
+            "mat": 57.75,
+            "com": 177.75,
+            "pfrh": 177.75,
+            "cs": 136.63,
+            "cta": 34.38,
+            "puntaje": 1079.75
+        },
+        "sem_8": {
+            "hab": 433.25,
+            "mat": 0.0,
+            "com": 94.38,
+            "pfrh": 73.25,
+            "cs": 96.63,
+            "cta": 34.38,
+            "puntaje": 731.88
+        }
+    }
+},{
+    "id": 23,
+    "user": "Meza10003395",
+    "password": "N10003395Meza",
+    "email": "NoemiMeza@gmail.com",
+    "data_user": {
+        "nombre": "NOEMI LILIANA",
+        "apellidos": "MEZA PUMAHUALLCA",
+        "carrera_u": "EDUCACION INICIAL",
+        "codigo": 10003395
+    },
+    "data_puntaje": {
+        "sem_1": {
+            "hab": 0.0,
+            "mat": 0.0,
+            "com": 0.0,
+            "pfrh": 0.0,
+            "cs": 0.0,
+            "cta": 0.0,
+            "puntaje": 0.0
+        },
+        "sem_2": {
+            "hab": 0.0,
+            "mat": 0.0,
+            "com": 0.0,
+            "pfrh": 0.0,
+            "cs": 0.0,
+            "cta": 0.0,
+            "puntaje": 0.0
+        },
+        "sem_3": {
+            "hab": 136.38,
+            "mat": 25.38,
+            "com": 53.25,
+            "pfrh": 108.75,
+            "cs": -10.13,
+            "cta": 0.88,
+            "puntaje": 314.5
+        },
+        "sem_4": {
+            "hab": 177.5,
+            "mat": 46.5,
+            "com": 93.25,
+            "pfrh": 87.63,
+            "cs": 31.0,
+            "cta": 43.13,
+            "puntaje": 479.0
+        },
+        "sem_5": {
+            "hab": 240.88,
+            "mat": 109.88,
+            "com": 29.88,
+            "pfrh": 66.5,
+            "cs": 31.0,
+            "cta": 64.25,
+            "puntaje": 542.38
+        },
+        "sem_6": {
+            "hab": 198.63,
+            "mat": 67.63,
+            "com": 72.13,
+            "pfrh": 45.38,
+            "cs": 115.5,
+            "cta": 127.63,
+            "puntaje": 626.88
+        },
+        "sem_7": {
+            "hab": 283.13,
+            "mat": 88.75,
+            "com": 51.0,
+            "pfrh": 172.13,
+            "cs": 94.38,
+            "cta": 106.5,
+            "puntaje": 795.88
+        },
+        "sem_8": {
+            "hab": 262.0,
+            "mat": 88.75,
+            "com": 114.38,
+            "pfrh": 152.13,
+            "cs": 94.38,
+            "cta": 85.38,
+            "puntaje": 797.0
+        }
+    }
+},{
+    "id": 24,
+    "user": "Oliveira10003540",
+    "password": "M10003540Oliveira",
+    "email": "MerisaOliveira@gmail.com",
+    "data_user": {
+        "nombre": "MERISA NAYELI",
+        "apellidos": "OLIVEIRA TINA",
+        "carrera_u": "PSICOLOGIA",
+        "codigo": 10003540
+    },
+    "data_puntaje": {
+        "sem_1": {
+            "hab": 0.0,
+            "mat": 0.0,
+            "com": 0.0,
+            "pfrh": 0.0,
+            "cs": 0.0,
+            "cta": 0.0,
+            "puntaje": 0.0
+        },
+        "sem_2": {
+            "hab": 0.0,
+            "mat": 0.0,
+            "com": 0.0,
+            "pfrh": 0.0,
+            "cs": 0.0,
+            "cta": 0.0,
+            "puntaje": 0.0
+        },
+        "sem_3": {
+            "hab": 87.63,
+            "mat": 0.0,
+            "com": 8.75,
+            "pfrh": 11.0,
+            "cs": 54.38,
+            "cta": 51.0,
+            "puntaje": 212.75
+        },
+        "sem_4": {
+            "hab": 129.88,
+            "mat": -3.38,
+            "com": 54.38,
+            "pfrh": 36.63,
+            "cs": 55.5,
+            "cta": 33.25,
+            "puntaje": 306.25
+        },
+        "sem_5": {
+            "hab": 67.63,
+            "mat": -3.38,
+            "com": 9.88,
+            "pfrh": 49.88,
+            "cs": 11.0,
+            "cta": 14.38,
+            "puntaje": 149.38
+        },
+        "sem_6": {
+            "hab": 129.88,
+            "mat": 20.0,
+            "com": 35.5,
+            "pfrh": 11.0,
+            "cs": 12.13,
+            "cta": -2.25,
+            "puntaje": 206.25
+        },
+        "sem_7": {
+            "hab": 204.25,
+            "mat": -1.13,
+            "com": 114.38,
+            "pfrh": 72.13,
+            "cs": 56.63,
+            "cta": -6.75,
+            "puntaje": 439.5
+        },
+        "sem_8": {
+            "hab": 0.0,
+            "mat": 0.0,
+            "com": 0.0,
+            "pfrh": 0.0,
+            "cs": 0.0,
+            "cta": 0.0,
+            "puntaje": 0.0
+        }
+    }
+},{
+    "id": 25,
+    "user": "Rios10003685",
+    "password": "N10003685Rios",
+    "email": "NickolleRios@gmail.com",
+    "data_user": {
+        "nombre": "NICKOLLE ALESSANDRA",
+        "apellidos": "RIOS CUESTAS",
+        "carrera_u": "DERECHO",
+        "codigo": 10003685
+    },
+    "data_puntaje": {
+        "sem_1": {
+            "hab": 325.38,
+            "mat": 67.63,
+            "com": 156.63,
+            "pfrh": 172.13,
+            "cs": 73.25,
+            "cta": 106.5,
+            "puntaje": 901.5
+        },
+        "sem_2": {
+            "hab": 283.13,
+            "mat": 173.25,
+            "com": 156.63,
+            "pfrh": 173.25,
+            "cs": 115.5,
+            "cta": 106.5,
+            "puntaje": 1008.25
+        },
+        "sem_3": {
+            "hab": 388.75,
+            "mat": 131.0,
+            "com": 114.38,
+            "pfrh": 235.5,
+            "cs": 136.63,
+            "cta": 148.75,
+            "puntaje": 1155.0
+        },
+        "sem_4": {
+            "hab": 498.88,
+            "mat": 116.63,
+            "com": 220.0,
+            "pfrh": 193.25,
+            "cs": 136.63,
+            "cta": 173.25,
+            "puntaje": 1338.63
+        },
+        "sem_5": {
+            "hab": 520.0,
+            "mat": 57.75,
+            "com": 158.88,
+            "pfrh": 195.5,
+            "cs": 157.75,
+            "cta": 136.63,
+            "puntaje": 1226.5
+        },
+        "sem_6": {
+            "hab": 0.0,
+            "mat": 0.0,
+            "com": 0.0,
+            "pfrh": 0.0,
+            "cs": 0.0,
+            "cta": 0.0,
+            "puntaje": 0.0
+        },
+        "sem_7": {
+            "hab": 517.75,
+            "mat": 200.0,
+            "com": 178.88,
+            "pfrh": 215.5,
+            "cs": 157.75,
+            "cta": 196.63,
+            "puntaje": 1466.5
+        },
+        "sem_8": {
+            "hab": 560.0,
+            "mat": 158.88,
+            "com": 76.63,
+            "pfrh": 236.63,
+            "cs": 138.88,
+            "cta": 75.5,
+            "puntaje": 1246.5
+        }
+    }
+},{
+    "id": 26,
+    "user": "Rivera10003830",
+    "password": "A10003830Rivera",
+    "email": "AzumyRivera@gmail.com",
+    "data_user": {
+        "nombre": "AZUMY ANGIE",
+        "apellidos": "RIVERA ORTEGA",
+        "carrera_u": "NUTRICION",
+        "codigo": 10003830
+    },
+    "data_puntaje": {
+        "sem_1": {
+            "hab": 240.88,
+            "mat": 88.75,
+            "com": 135.5,
+            "pfrh": 151.0,
+            "cs": 52.13,
+            "cta": 106.5,
+            "puntaje": 774.75
+        },
+        "sem_2": {
+            "hab": 156.38,
+            "mat": 152.13,
+            "com": 135.5,
+            "pfrh": 129.88,
+            "cs": 31.0,
+            "cta": 43.13,
+            "puntaje": 648.0
+        },
+        "sem_3": {
+            "hab": 242.0,
+            "mat": 48.75,
+            "com": 93.25,
+            "pfrh": 129.88,
+            "cs": 52.13,
+            "cta": 127.63,
+            "puntaje": 693.63
+        },
+        "sem_4": {
+            "hab": 243.13,
+            "mat": 71.0,
+            "com": 177.75,
+            "pfrh": 87.63,
+            "cs": 75.5,
+            "cta": 27.63,
+            "puntaje": 682.63
+        },
+        "sem_5": {
+            "hab": 158.63,
+            "mat": 113.25,
+            "com": 114.38,
+            "pfrh": 47.63,
+            "cs": 115.5,
+            "cta": 68.75,
+            "puntaje": 618.13
+        },
+        "sem_6": {
+            "hab": 185.38,
+            "mat": 74.38,
+            "com": 72.13,
+            "pfrh": 29.88,
+            "cs": 115.5,
+            "cta": 29.88,
+            "puntaje": 507.13
+        },
+        "sem_7": {
+            "hab": 349.88,
+            "mat": 55.5,
+            "com": 94.38,
+            "pfrh": 114.38,
+            "cs": 96.63,
+            "cta": 67.63,
+            "puntaje": 778.38
+        },
+        "sem_8": {
+            "hab": 224.25,
+            "mat": 37.75,
+            "com": 53.25,
+            "pfrh": 91.0,
+            "cs": 76.63,
+            "cta": 13.25,
+            "puntaje": 496.13
+        }
+    }
+},{
+    "id": 27,
+    "user": "Rivera10003975",
+    "password": "V10003975Rivera",
+    "email": "ValeriaRivera@gmail.com",
+    "data_user": {
+        "nombre": "VALERIA ZASHA",
+        "apellidos": "RIVERA ORTEGA",
+        "carrera_u": "ARQUITECTURA",
+        "codigo": 10003975
+    },
+    "data_puntaje": {
+        "sem_1": {
+            "hab": 267.63,
+            "mat": 112.13,
+            "com": 198.88,
+            "pfrh": 215.5,
+            "cs": 95.5,
+            "cta": 171.0,
+            "puntaje": 1060.63
+        },
+        "sem_2": {
+            "hab": 267.63,
+            "mat": 197.75,
+            "com": 198.88,
+            "pfrh": 174.38,
+            "cs": 12.13,
+            "cta": 108.75,
+            "puntaje": 959.5
+        },
+        "sem_3": {
+            "hab": 268.75,
+            "mat": 134.38,
+            "com": 157.75,
+            "pfrh": 175.5,
+            "cs": 115.5,
+            "cta": 214.38,
+            "puntaje": 1066.25
+        },
+        "sem_4": {
+            "hab": 287.63,
+            "mat": 53.25,
+            "com": 115.5,
+            "pfrh": 196.63,
+            "cs": 75.5,
+            "cta": 133.25,
+            "puntaje": 861.75
+        },
+        "sem_5": {
+            "hab": 105.38,
+            "mat": 13.25,
+            "com": 136.63,
+            "pfrh": 177.75,
+            "cs": 75.5,
+            "cta": 113.25,
+            "puntaje": 621.75
+        },
+        "sem_6": {
+            "hab": 207.63,
+            "mat": 118.88,
+            "com": 96.63,
+            "pfrh": 32.13,
+            "cs": 75.5,
+            "cta": 134.38,
+            "puntaje": 665.13
+        },
+        "sem_7": {
+            "hab": 353.25,
+            "mat": 34.38,
+            "com": 95.5,
+            "pfrh": 136.63,
+            "cs": 76.63,
+            "cta": 72.13,
+            "puntaje": 768.5
+        },
+        "sem_8": {
+            "hab": 308.75,
+            "mat": 54.38,
+            "com": 96.63,
+            "pfrh": 93.25,
+            "cs": 73.25,
+            "cta": 69.88,
+            "puntaje": 696.13
+        }
+    }
+},{
+    "id": 28,
+    "user": "Rojas10004120",
+    "password": "S10004120Rojas",
+    "email": "StefanoRojas@gmail.com",
+    "data_user": {
+        "nombre": "STEFANO JOSUE",
+        "apellidos": "ROJAS TRINIDAD",
+        "carrera_u": "CONTABILIDAD",
+        "codigo": 10004120
+    },
+    "data_puntaje": {
+        "sem_1": {
+            "hab": 64.25,
+            "mat": 18.88,
+            "com": 54.38,
+            "pfrh": 33.25,
+            "cs": 52.13,
+            "cta": 36.63,
+            "puntaje": 259.5
+        },
+        "sem_2": {
+            "hab": 0.0,
+            "mat": 0.0,
+            "com": 0.0,
+            "pfrh": 0.0,
+            "cs": 0.0,
+            "cta": 0.0,
+            "puntaje": 0.0
+        },
+        "sem_3": {
+            "hab": 160.88,
+            "mat": 48.75,
+            "com": 94.38,
+            "pfrh": 88.75,
+            "cs": 11.0,
+            "cta": 92.13,
+            "puntaje": 495.88
+        },
+        "sem_4": {
+            "hab": 212.13,
+            "mat": 58.88,
+            "com": 115.5,
+            "pfrh": 74.38,
+            "cs": 157.75,
+            "cta": 75.5,
+            "puntaje": 694.13
+        },
+        "sem_5": {
+            "hab": 189.88,
+            "mat": 71.0,
+            "com": 94.38,
+            "pfrh": 87.63,
+            "cs": 116.63,
+            "cta": 32.13,
+            "puntaje": 591.63
+        },
+        "sem_6": {
+            "hab": 227.63,
+            "mat": 54.38,
+            "com": 114.38,
+            "pfrh": 135.5,
+            "cs": 76.63,
+            "cta": 117.75,
+            "puntaje": 726.25
+        },
+        "sem_7": {
+            "hab": 313.25,
+            "mat": -9.0,
+            "com": 75.5,
+            "pfrh": 93.25,
+            "cs": 97.75,
+            "cta": 8.75,
+            "puntaje": 579.5
+        },
+        "sem_8": {
+            "hab": 293.25,
+            "mat": 89.88,
+            "com": 137.75,
+            "pfrh": 69.88,
+            "cs": 73.25,
+            "cta": 33.25,
+            "puntaje": 697.25
+        }
+    }
+},{
+    "id": 29,
+    "user": "Ruiz10004265",
+    "password": "N10004265Ruiz",
+    "email": "NickolRuiz@gmail.com",
+    "data_user": {
+        "nombre": "NICKOL ANDRIANOV",
+        "apellidos": "RUIZ MU\u00d1OZ",
+        "carrera_u": "FARMACIA Y BIOQUIMICA",
+        "codigo": 10004265
+    },
+    "data_puntaje": {
+        "sem_1": {
+            "hab": 0.0,
+            "mat": 0.0,
+            "com": 0.0,
+            "pfrh": 0.0,
+            "cs": 0.0,
+            "cta": 0.0,
+            "puntaje": 0.0
+        },
+        "sem_2": {
+            "hab": 0.0,
+            "mat": 0.0,
+            "com": 0.0,
+            "pfrh": 0.0,
+            "cs": 0.0,
+            "cta": 0.0,
+            "puntaje": 0.0
+        },
+        "sem_3": {
+            "hab": 224.25,
+            "mat": 37.75,
+            "com": 53.25,
+            "pfrh": 91.0,
+            "cs": 76.63,
+            "cta": 13.25,
+            "puntaje": 496.13
+        },
+        "sem_4": {
+            "hab": 211.0,
+            "mat": 98.88,
+            "com": 75.5,
+            "pfrh": 33.25,
+            "cs": 115.5,
+            "cta": 155.5,
+            "puntaje": 689.63
+        },
+        "sem_5": {
+            "hab": 191.0,
+            "mat": 117.75,
+            "com": 94.38,
+            "pfrh": 117.75,
+            "cs": 37.75,
+            "cta": 114.38,
+            "puntaje": 673.0
+        },
+        "sem_6": {
+            "hab": 251.0,
+            "mat": 157.75,
+            "com": 95.5,
+            "pfrh": 37.75,
+            "cs": 36.63,
+            "cta": 235.5,
+            "puntaje": 814.13
+        },
+        "sem_7": {
+            "hab": 209.88,
+            "mat": 220.0,
+            "com": 53.25,
+            "pfrh": 157.75,
+            "cs": 56.63,
+            "cta": 115.5,
+            "puntaje": 813.0
+        },
+        "sem_8": {
+            "hab": 148.75,
+            "mat": 77.75,
+            "com": 56.63,
+            "pfrh": 174.38,
+            "cs": -3.38,
+            "cta": 33.25,
+            "puntaje": 487.38
+        }
+    }
+},{
+    "id": 30,
+    "user": "Salazar10004410",
+    "password": "S10004410Salazar",
+    "email": "SaylaSalazar@gmail.com",
+    "data_user": {
+        "nombre": "SAYLA SILVANA",
+        "apellidos": "SALAZAR GALVEZ",
+        "carrera_u": "ADMINISTRACION DE NEGOCIOS INTERNACIONALES",
+        "codigo": 10004410
+    },
+    "data_puntaje": {
+        "sem_1": {
+            "hab": 0.0,
+            "mat": 0.0,
+            "com": 0.0,
+            "pfrh": 0.0,
+            "cs": 0.0,
+            "cta": 0.0,
+            "puntaje": 0.0
+        },
+        "sem_2": {
+            "hab": 177.5,
+            "mat": 46.5,
+            "com": 93.25,
+            "pfrh": 87.63,
+            "cs": 31.0,
+            "cta": 43.13,
+            "puntaje": 479.0
+        },
+        "sem_3": {
+            "hab": 326.5,
+            "mat": -1.13,
+            "com": 72.13,
+            "pfrh": 54.38,
+            "cs": 74.38,
+            "cta": 46.5,
+            "puntaje": 572.75
+        },
+        "sem_4": {
+            "hab": 284.25,
+            "mat": 91.0,
+            "com": 93.25,
+            "pfrh": 66.5,
+            "cs": 52.13,
+            "cta": 22.0,
+            "puntaje": 609.13
+        },
+        "sem_5": {
+            "hab": 228.75,
+            "mat": -1.13,
+            "com": 52.13,
+            "pfrh": 151.0,
+            "cs": 31.0,
+            "cta": 29.88,
+            "puntaje": 491.63
+        },
+        "sem_6": {
+            "hab": 140.88,
+            "mat": -1.13,
+            "com": 135.5,
+            "pfrh": 111.0,
+            "cs": 33.25,
+            "cta": 91.0,
+            "puntaje": 510.5
+        },
+        "sem_7": {
+            "hab": 198.63,
+            "mat": -2.25,
+            "com": 94.38,
+            "pfrh": 154.38,
+            "cs": 74.38,
+            "cta": 51.0,
+            "puntaje": 570.5
+        },
+        "sem_8": {
+            "hab": 191.0,
+            "mat": 40.0,
+            "com": 52.13,
+            "pfrh": 87.63,
+            "cs": 94.38,
+            "cta": 7.63,
+            "puntaje": 472.75
+        }
+    }
+},{
+    "id": 31,
+    "user": "Taipe10004555",
+    "password": "A10004555Taipe",
+    "email": "AngeloTaipe@gmail.com",
+    "data_user": {
+        "nombre": "ANGELO ESTEFANO",
+        "apellidos": "TAIPE ECHEVARRIA",
+        "carrera_u": "MEDICINA HUMANA",
+        "codigo": 10004555
+    },
+    "data_puntaje": {
+        "sem_1": {
+            "hab": 0.0,
+            "mat": 0.0,
+            "com": 0.0,
+            "pfrh": 0.0,
+            "cs": 0.0,
+            "cta": 0.0,
+            "puntaje": 0.0
+        },
+        "sem_2": {
+            "hab": 0.0,
+            "mat": 0.0,
+            "com": 0.0,
+            "pfrh": 0.0,
+            "cs": 0.0,
+            "cta": 0.0,
+            "puntaje": 0.0
+        },
+        "sem_3": {
+            "hab": 94.38,
+            "mat": 38.88,
+            "com": 96.63,
+            "pfrh": 0.0,
+            "cs": 55.5,
+            "cta": 38.88,
+            "puntaje": 324.25
+        },
+        "sem_4": {
+            "hab": 98.63,
+            "mat": -3.38,
+            "com": 72.13,
+            "pfrh": 87.63,
+            "cs": 34.38,
+            "cta": 27.63,
+            "puntaje": 317.0
+        },
+        "sem_5": {
+            "hab": 96.38,
+            "mat": 0.0,
+            "com": 29.88,
+            "pfrh": 20.0,
+            "cs": 0.0,
+            "cta": 75.5,
+            "puntaje": 221.75
+        },
+        "sem_6": {
+            "hab": 205.38,
+            "mat": 16.63,
+            "com": 51.0,
+            "pfrh": 52.13,
+            "cs": 33.25,
+            "cta": 68.75,
+            "puntaje": 427.13
+        },
+        "sem_7": {
+            "hab": 182.0,
+            "mat": 15.5,
+            "com": 75.5,
+            "pfrh": 113.25,
+            "cs": 36.63,
+            "cta": 34.38,
+            "puntaje": 457.25
+        },
+        "sem_8": {
+            "hab": 247.63,
+            "mat": -4.5,
+            "com": 13.25,
+            "pfrh": 89.88,
+            "cs": 54.38,
+            "cta": 89.88,
+            "puntaje": 490.5
+        }
+    }
+},{
+    "id": 32,
+    "user": "Torres10004700",
+    "password": "V10004700Torres",
+    "email": "ValeriaTorres@gmail.com",
+    "data_user": {
+        "nombre": "VALERIA GENESIS",
+        "apellidos": "TORRES DIAZ",
+        "carrera_u": "ADMINISTRACION",
+        "codigo": 10004700
+    },
+    "data_puntaje": {
+        "sem_1": {
+            "hab": 0.0,
+            "mat": 0.0,
+            "com": 0.0,
+            "pfrh": 0.0,
+            "cs": 0.0,
+            "cta": 0.0,
+            "puntaje": 0.0
+        },
+        "sem_2": {
+            "hab": 64.25,
+            "mat": 18.88,
+            "com": 54.38,
+            "pfrh": 33.25,
+            "cs": 52.13,
+            "cta": 36.63,
+            "puntaje": 259.5
+        },
+        "sem_3": {
+            "hab": 198.63,
+            "mat": 25.38,
+            "com": 8.75,
+            "pfrh": 45.38,
+            "cs": 31.0,
+            "cta": 22.0,
+            "puntaje": 331.13
+        },
+        "sem_4": {
+            "hab": 93.0,
+            "mat": 46.5,
+            "com": 114.38,
+            "pfrh": 108.75,
+            "cs": 73.25,
+            "cta": 64.25,
+            "puntaje": 500.13
+        },
+        "sem_5": {
+            "hab": 177.5,
+            "mat": 46.5,
+            "com": 93.25,
+            "pfrh": 87.63,
+            "cs": 31.0,
+            "cta": 43.13,
+            "puntaje": 479.0
+        },
+        "sem_6": {
+            "hab": 0.0,
+            "mat": 0.0,
+            "com": 0.0,
+            "pfrh": 0.0,
+            "cs": 0.0,
+            "cta": 0.0,
+            "puntaje": 0.0
+        },
+        "sem_7": {
+            "hab": 0.0,
+            "mat": 0.0,
+            "com": 0.0,
+            "pfrh": 0.0,
+            "cs": 0.0,
+            "cta": 0.0,
+            "puntaje": 0.0
+        },
+        "sem_8": {
+            "hab": 178.63,
+            "mat": -7.88,
+            "com": 31.0,
+            "pfrh": 46.5,
+            "cs": -10.13,
+            "cta": 106.5,
+            "puntaje": 344.63
+        }
+    }
+},{
+    "id": 33,
+    "user": "Villavicencio10004845",
+    "password": "A10004845Villavicencio",
+    "email": "AndreaVillavicencio@gmail.com",
+    "data_user": {
+        "nombre": "ANDREA FERNANDA",
+        "apellidos": "VILLAVICENCIO GALARZA",
+        "carrera_u": "EDUCACION SECUNDARIA",
+        "codigo": 10004845
+    },
+    "data_puntaje": {
+        "sem_1": {
+            "hab": 0.0,
+            "mat": 0.0,
+            "com": 0.0,
+            "pfrh": 0.0,
+            "cs": 0.0,
+            "cta": 0.0,
+            "puntaje": 0.0
+        },
+        "sem_2": {
+            "hab": 0.0,
+            "mat": 0.0,
+            "com": 0.0,
+            "pfrh": 0.0,
+            "cs": 0.0,
+            "cta": 0.0,
+            "puntaje": 0.0
+        },
+        "sem_3": {
+            "hab": 156.38,
+            "mat": 46.5,
+            "com": 51.0,
+            "pfrh": 66.5,
+            "cs": 94.38,
+            "cta": 0.88,
+            "puntaje": 415.63
+        },
+        "sem_4": {
+            "hab": 93.0,
+            "mat": 68.75,
+            "com": 72.13,
+            "pfrh": 87.63,
+            "cs": 9.88,
+            "cta": 87.63,
+            "puntaje": 419.0
+        },
+        "sem_5": {
+            "hab": 71.88,
+            "mat": 46.5,
+            "com": 29.88,
+            "pfrh": 3.13,
+            "cs": 31.0,
+            "cta": 0.88,
+            "puntaje": 183.25
+        },
+        "sem_6": {
+            "hab": 198.63,
+            "mat": 46.5,
+            "com": 8.75,
+            "pfrh": -16.88,
+            "cs": 31.0,
+            "cta": 43.13,
+            "puntaje": 311.13
+        },
+        "sem_7": {
+            "hab": 136.38,
+            "mat": 25.38,
+            "com": 53.25,
+            "pfrh": 108.75,
+            "cs": -10.13,
+            "cta": 0.88,
+            "puntaje": 314.5
+        },
+        "sem_8": {
+            "hab": 0.0,
+            "mat": 0.0,
+            "com": 0.0,
+            "pfrh": 0.0,
+            "cs": 0.0,
+            "cta": 0.0,
+            "puntaje": 0.0
+        }
+    }
+},
